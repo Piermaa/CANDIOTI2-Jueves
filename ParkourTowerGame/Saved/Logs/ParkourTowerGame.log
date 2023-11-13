@@ -5065,3 +5065,82 @@ Make sure 'ABP_Player_C' has been compiled for  Get IsInAir?
 [2023.11.13-03.13.59:136][121]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mannequin/NewCharacter/Animations/ABP_Player_Auto4
 [2023.11.13-03.13.59:136][121]LogSavePackage: Moving '../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/ABP_Player_Auto4600212EE472653D92971F1B7772E6350.tmp' to '../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Mannequin/NewCharacter/Animations/ABP_Player_Auto4.uasset'
 [2023.11.13-03.13.59:138][121]LogFileHelpers: Auto-saving content packages took 0.337
+[2023.11.13-03.16.28:202][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.13-03.16.30:323][569]LogSlate: Window 'Save Content' being destroyed
+[2023.11.13-03.16.30:348][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-03.16.30:489][569]LogSavePackage: Moving output files for package: /Game/Mannequin/NewCharacter/Animations/ABP_Player
+[2023.11.13-03.16.30:490][569]LogSavePackage: Moving '../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/ABP_Player044D42F94F3D8840620F518EF1851411.tmp' to '../../../../CANDIOTI2-Jueves/ParkourTowerGame/Content/Mannequin/NewCharacter/Animations/ABP_Player.uasset'
+[2023.11.13-03.16.30:491][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/NewCharacter/Player_Skeleton" FILE="../../../../CANDIOTI2-Jueves/ParkourTowerGame/Content/Mannequin/NewCharacter/Player_Skeleton.uasset" SILENT=true
+[2023.11.13-03.16.30:493][569]LogSavePackage: Moving output files for package: /Game/Mannequin/NewCharacter/Player_Skeleton
+[2023.11.13-03.16.30:494][569]LogSavePackage: Moving '../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/Player_Skeleton671C19ED4208CB3A16020DB362EF4419.tmp' to '../../../../CANDIOTI2-Jueves/ParkourTowerGame/Content/Mannequin/NewCharacter/Player_Skeleton.uasset'
+[2023.11.13-03.16.30:525][569]LogSavePackage: Moving output files for package: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2023.11.13-03.16.30:526][569]LogSavePackage: Moving '../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/ThirdPersonCharacter3547E3D845D6F7ADF9B6D88FB19C5FCC.tmp' to '../../../../CANDIOTI2-Jueves/ParkourTowerGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.11.13-03.16.30:537][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 7.89 sec)
+[2023.11.13-03.16.30:538][569]LogStall: Shutdown...
+[2023.11.13-03.16.30:601][569]LogStall: Shutdown complete.
+[2023.11.13-03.16.30:887][569]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-03.16.30:887][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-03.16.30:944][569]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-03.16.30:944][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-03.16.30:958][569]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-03.16.30:958][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-03.16.31:041][569]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-03.16.31:041][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-03.16.31:179][569]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-03.16.31:179][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-03.16.31:201][569]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-03.16.31:201][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-03.16.31:213][569]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-03.16.31:213][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-03.16.31:385][569]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-03.16.31:385][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-03.16.31:402][569]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-03.16.31:402][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-03.16.31:481][569]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-03.16.31:481][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-03.16.31:502][569]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-03.16.31:502][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-03.16.31:837][569]LogSlate: Window 'ParkourTowerGame - Unreal Editor' being destroyed
+[2023.11.13-03.16.32:862][569]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.13-03.16.32:862][569]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.11.13-03.16.32:862][569]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Mannequin/NewCharacter/Player_Skeleton.Player_Skeleton
+[2023.11.13-03.16.32:862][569]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Mannequin/NewCharacter/Animations/ABP_Player.ABP_Player
+[2023.11.13-03.16.32:865][570]LogAutomationController: Ignoring very large delta of 4.99 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.13-03.16.32:865][570]Cmd: QUIT_EDITOR
+[2023.11.13-03.16.32:865][570]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.11.13-03.16.33:159][570]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.11.13-03.16.33:159][570]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.11.13-03.16.33:218][570]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.11.13-03.16.33:298][570]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-03.16.33:307][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-03.16.33:369][570]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.11.13-03.16.33:630][570]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.11.13-03.16.33:781][570]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.11.13-03.16.35:613][570]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.11.13-03.16.35:613][570]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.11.13-03.16.35:613][570]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2023.11.13-03.16.35:642][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.11.13-03.16.35:644][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.11.13-03.16.35:791][570]LogAudio: Display: Audio Device Manager Shutdown
+[2023.11.13-03.16.36:047][570]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.11.13-03.16.36:075][570]LogExit: Preparing to exit.
+[2023.11.13-03.16.37:569][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.11.13-03.16.37:613][570]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:613][570]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:842][570]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:851][570]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:851][570]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:852][570]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:852][570]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:852][570]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:852][570]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:852][570]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:852][570]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:852][570]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:854][570]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:854][570]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:854][570]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:854][570]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:854][570]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:854][570]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.13-03.16.37:858][570]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
