@@ -7,11 +7,12 @@
 			"files": [
 				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Maps/ObstacleTestMap.umap",
 				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_RotatorObstacle.uasset",
-				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP.uasset",
 				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_RotatorDiscObstacle.uasset",
 				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_MovingPlatformObstacle.uasset",
 				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_MovingPlatformObstacleWithRotation.uasset",
 				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_Spikes.uasset",
+				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_Jumper.uasset",
+				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP.uasset",
 				"C:/Repositorios/CandiotiGame/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/SI/JJATSIVEPZEJNXE9VW1SIN.uasset",
 				"C:/Repositorios/CandiotiGame/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZB/BP3V2WMEJ2X00VB4YZ4P77.uasset",
 				"C:/Repositorios/CandiotiGame/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VP/RGXRAKINXE6ABTR3AMZWEC.uasset",
