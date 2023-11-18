@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Repositorios/CandiotiGame/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Maps/TutorialLevel.umap",
+				"C:/Repositorios/CandiotiGame/CANDIOTI2-Jueves/ParkourTowerGame/Content/DreamscapeSeries/DreamscapeTower/Materials/Foliage/MI_GrassMedium.uasset",
 				"D:/Unreal/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"D:/Unreal/CANDIOTI2-Jueves/ParkourTowerGame/Content/Components/ParkourMovement.uasset",
 				"D:/Unreal/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
