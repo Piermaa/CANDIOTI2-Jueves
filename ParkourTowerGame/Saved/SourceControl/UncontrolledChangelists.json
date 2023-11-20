@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Materials/M_Lava.uasset",
+				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Materials/MI_Lava.uasset",
+				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/BP_Lava.uasset",
+				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/YD/6D7VUROSAVBOYWJOVNH917.uasset",
+				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_Jumper.uasset",
+				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Maps/ObstacleTestMap.umap",
 				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Maps/ObstacleTestMap.umap",
 				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_RotatorObstacle.uasset",
 				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_RotatorDiscObstacle.uasset",
@@ -217,14 +226,7 @@
 				"D:/Unreal/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Input/Actions/IA_Look.uasset",
 				"D:/Unreal/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Input/Actions/IA_Jump.uasset",
 				"D:/Unreal/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset",
-				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Materials/M_Lava.uasset",
-				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Materials/MI_Lava.uasset",
-				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
-				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
-				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
-				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/TH/YJX2EN1YXYS59JR1DJWLAO.uasset",
-				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/BP_Lava.uasset",
-				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/YD/6D7VUROSAVBOYWJOVNH917.uasset"
+				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/TH/YJX2EN1YXYS59JR1DJWLAO.uasset"
 			]
 		}
 	]
