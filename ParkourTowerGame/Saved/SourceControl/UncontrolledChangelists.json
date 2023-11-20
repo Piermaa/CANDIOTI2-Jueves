@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_Spikes.uasset",
+				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/GR/JQT8K6M2XUMYLYMA1FZORT.uasset",
+				"D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/HE/SZKGCXVUB7OO7PDLTWTI9S.uasset",
 				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Materials/M_Lava.uasset",
 				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Materials/MI_Lava.uasset",
 				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
