@@ -2880,3 +2880,101 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.28-22.44.08:340][679]LogAutomationController: Ignoring very large delta of 4.73 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.11.28-22.44.40:054][262]LogAutomationController: Ignoring very large delta of 4.82 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.11.28-22.51.41:140][724]LogAutomationController: Ignoring very large delta of 3.79 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.28-22.52.39:106][467]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.28-22.52.39:113][467]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: ================================================
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Total job queries 421, among them cache hits 90 (21.38%)
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Tracking 331 distinct input hashes that result in 234 distinct outputs (70.69%)
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: RAM used: 2.30 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.14%
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Shaders Compiled: 17
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Jobs assigned 17, completed 17 (100.00%)
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Average time worker was idle: 0.23 s
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Time job spent in pending queue: average 0.30 s, longest 1.08 s
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 1.38 s
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Job life time (pending + execution): average 1.14 s, max 1.90
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.60 s
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Average processing rate: 6.54 jobs/sec
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Total thread time: 8.10 s
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Total thread preprocess time: 0.46 s
+[2023.11.28-22.52.43:417][893]LogShaderCompilers: Display: Percentage time preprocessing: 5.62%
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display: Effective parallelization: 3.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.74 sec, max 0.84 sec, min 0.57 sec)
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.65 sec, max 0.71 sec, min 0.56 sec)
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.56 sec, max 0.64 sec, min 0.50 sec)
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.55% of total time (compiled    3 times, average 0.74 sec, max 0.84 sec, min 0.57 sec)
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.13% of total time (compiled    3 times, average 0.65 sec, max 0.71 sec, min 0.56 sec)
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.88% of total time (compiled    3 times, average 0.56 sec, max 0.64 sec, min 0.50 sec)
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.61% of total time (compiled    3 times, average 0.37 sec, max 0.39 sec, min 0.33 sec)
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 8.49% of total time (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2023.11.28-22.52.43:418][893]LogShaderCompilers: Display: ================================================
+[2023.11.28-22.52.45:594][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.11.28-22.52.50:239][116]LogSlate: Window 'Save Content' being destroyed
+[2023.11.28-22.52.50:246][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-22.52.50:296][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo1" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Medium/BP_Modulo1.uasset" SILENT=true
+[2023.11.28-22.52.50:301][116]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo1
+[2023.11.28-22.52.50:302][116]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo15AA168CA441FC4F353088EB9E5C4CD6D.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Medium/BP_Modulo1.uasset'
+[2023.11.28-22.52.50:302][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo11" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo11.uasset" SILENT=true
+[2023.11.28-22.52.50:306][116]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo11
+[2023.11.28-22.52.50:307][116]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo110208FE954EB7E5135C1F42B01B6B6919.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo11.uasset'
+[2023.11.28-22.52.50:307][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo12" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo12.uasset" SILENT=true
+[2023.11.28-22.52.50:311][116]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo12
+[2023.11.28-22.52.50:311][116]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo12F1D512C2400E1F4DBCBFF9A7F3F51C9A.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo12.uasset'
+[2023.11.28-22.52.50:312][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo15" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Medium/BP_Modulo15.uasset" SILENT=true
+[2023.11.28-22.52.50:316][116]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo15
+[2023.11.28-22.52.50:316][116]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo15A38E9FBC411B6BD9704C46BB18C19302.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Medium/BP_Modulo15.uasset'
+[2023.11.28-22.52.50:317][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo2" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo2.uasset" SILENT=true
+[2023.11.28-22.52.50:322][116]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo2
+[2023.11.28-22.52.50:323][116]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo20FEB57E74BA12CF7FF4843BDBE6E9158.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo2.uasset'
+[2023.11.28-22.52.50:323][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Hard/BP_Modulo3" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Hard/BP_Modulo3.uasset" SILENT=true
+[2023.11.28-22.52.50:340][116]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Hard/BP_Modulo3
+[2023.11.28-22.52.50:340][116]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo35AB327F643E300FDBB5154BA4BA4D35E.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Hard/BP_Modulo3.uasset'
+[2023.11.28-22.52.50:341][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo5" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo5.uasset" SILENT=true
+[2023.11.28-22.52.50:345][116]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo5
+[2023.11.28-22.52.50:345][116]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo5DF937E1143E8FD3B54F94AB689D64557.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo5.uasset'
+[2023.11.28-22.52.50:346][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo6" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Medium/BP_Modulo6.uasset" SILENT=true
+[2023.11.28-22.52.50:349][116]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo6
+[2023.11.28-22.52.50:350][116]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo60DFE00C34E02E34CBDEA77BB4DACC7BF.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Medium/BP_Modulo6.uasset'
+[2023.11.28-22.52.50:350][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo8" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Medium/BP_Modulo8.uasset" SILENT=true
+[2023.11.28-22.52.50:354][116]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo8
+[2023.11.28-22.52.50:354][116]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo85B9C4ACA4C60C8B2F23785B4B75F324B.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Medium/BP_Modulo8.uasset'
+[2023.11.28-22.52.50:362][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.68 sec)
+[2023.11.28-22.52.50:362][116]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2023.11.28-22.52.50:362][116]Cmd: MAP LOAD FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.28-22.52.50:362][116]LightingResults: New page: Lighting Build
+[2023.11.28-22.52.50:362][116]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.11.28-22.52.50:399][116]LogWorld: UWorld::CleanupWorld for TowerRoomTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-22.52.50:399][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.52.50:399][116]MapCheck: New page: Map Check
+[2023.11.28-22.52.50:399][116]LightingResults: New page: Lighting Build
+[2023.11.28-22.52.50:442][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.28-22.52.50:445][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.11.28-22.52.50:447][116]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-22.52.50:447][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.52.50:499][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.11.28-22.52.50:545][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.11.28-22.52.50:551][116]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.11.28-22.52.50:551][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-22.52.50:552][116]LogAIModule: Creating AISystem for world MainMenu
+[2023.11.28-22.52.50:564][116]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.28-22.52.50:610][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.11.28-22.52.50:620][116]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.28-22.52.50:620][116]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,075ms to complete.
+[2023.11.28-22.52.50:620][116]LogFileHelpers: Loading map 'MainMenu' took 0.257
+[2023.11.28-22.52.50:637][116]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.28-22.52.50:637][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Hard/BP_Modulo3.BP_Modulo3
+[2023.11.28-22.52.50:637][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo1.BP_Modulo1
+[2023.11.28-22.52.50:637][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo5.BP_Modulo5
+[2023.11.28-22.52.50:637][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo2.BP_Modulo2
+[2023.11.28-22.52.50:637][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo12.BP_Modulo12
+[2023.11.28-22.52.50:637][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo11.BP_Modulo11
+[2023.11.28-22.52.50:637][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo8.BP_Modulo8
+[2023.11.28-22.52.50:637][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo6.BP_Modulo6
+[2023.11.28-22.52.50:637][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo15.BP_Modulo15
+[2023.11.28-22.52.50:644][117]LogAutomationController: Ignoring very large delta of 5.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
