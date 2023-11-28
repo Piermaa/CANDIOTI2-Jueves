@@ -2978,3 +2978,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.28-22.52.50:637][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo6.BP_Modulo6
 [2023.11.28-22.52.50:637][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo15.BP_Modulo15
 [2023.11.28-22.52.50:644][117]LogAutomationController: Ignoring very large delta of 5.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.28-22.53.45:693][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
