@@ -4642,3 +4642,202 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.28-03.50.20:708][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
 [2023.11.28-03.50.20:718][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
 [2023.11.28-03.50.20:753][504]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2023.11.28-03.55.01:694][ 23]BlueprintLog: New page: Compile BP_Modulo13
+[2023.11.28-03.55.01:908][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.11.28-03.55.05:353][345]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.28-03.55.05:353][345]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.28-03.55.05:353][345]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.28-03.55.11:158][873]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.28-03.55.11:169][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.28-03.55.11:169][873]PIE: New page: PIE session: TowerRoomTestMap (27 nov. 2023 21:55:11)
+[2023.11.28-03.55.11:169][873]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-03.55.11:173][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004382s)
+[2023.11.28-03.55.11:173][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TowerRoomTestMap.TowerRoomTestMap to /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap (0.004415s)
+[2023.11.28-03.55.11:173][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-03.55.11:174][873]LogAIModule: Creating AISystem for world TowerRoomTestMap
+[2023.11.28-03.55.11:174][873]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2023.11.28-03.55.11:246][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.11.28-03.55.11:252][873]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2023.11.28-03.55.11:252][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-03.55.11:252][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-03.55.11:252][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-03.55.11:252][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-03.55.11:252][873]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.28-03.55.11:252][873]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.28-03.55.11:252][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.28-03.55.11:252][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-03.55.11:252][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-03.55.11:252][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-03.55.11:252][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-03.55.11:255][873]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-03.55.11:282][873]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2023.11.28-03.55.11:282][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-03.55.11:282][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-03.55.11:282][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-03.55.11:283][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2023.11.28-03.55.11:283][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2023.11.28-03.55.11:285][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2023.11.28-03.55.11:285][873]LogInit: FAudioDevice initialized.
+[2023.11.28-03.55.11:285][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2023.11.28-03.55.11:285][873]LogAudio: Display: Audio Device (ID: 54) registered with world 'TowerRoomTestMap'.
+[2023.11.28-03.55.11:288][873]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-03.55.11:289][873]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap up for play (max tick rate 0) at 2023.11.28-00.55.11
+[2023.11.28-03.55.11:289][873]LogWorld: Bringing up level for play took: 0.000983
+[2023.11.28-03.55.11:290][873]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2023.11.28-03.55.11:305][873]PIE: Server logged in
+[2023.11.28-03.55.11:306][873]PIE: Play in editor total start time 0,138 seconds.
+[2023.11.28-03.55.46:254][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-03.55.46:254][603]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-03.55.46:254][603]LogWorld: UWorld::CleanupWorld for TowerRoomTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-03.55.46:256][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-03.55.46:259][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.28-03.55.46:267][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-03.55.46:340][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.28-03.55.46:340][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.11.28-03.55.46:342][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.11.28-03.55.46:346][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-03.55.46:351][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.11.28-03.55.46:399][604]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2023.11.28-03.56.08:434][187]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.28-03.56.08:442][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.28-03.56.08:442][187]PIE: New page: PIE session: TowerRoomTestMap (27 nov. 2023 21:56:08)
+[2023.11.28-03.56.08:463][187]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-03.56.08:467][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003457s)
+[2023.11.28-03.56.08:467][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TowerRoomTestMap.TowerRoomTestMap to /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap (0.003493s)
+[2023.11.28-03.56.08:467][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-03.56.08:467][187]LogAIModule: Creating AISystem for world TowerRoomTestMap
+[2023.11.28-03.56.08:467][187]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2023.11.28-03.56.08:544][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.11.28-03.56.08:548][187]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2023.11.28-03.56.08:548][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-03.56.08:548][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-03.56.08:548][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-03.56.08:548][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-03.56.08:548][187]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.28-03.56.08:548][187]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.28-03.56.08:548][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.28-03.56.08:548][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-03.56.08:549][187]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-03.56.08:549][187]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-03.56.08:549][187]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-03.56.08:551][187]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-03.56.08:585][187]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2023.11.28-03.56.08:585][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-03.56.08:585][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-03.56.08:585][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-03.56.08:586][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2023.11.28-03.56.08:586][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2023.11.28-03.56.08:588][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2023.11.28-03.56.08:588][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2023.11.28-03.56.08:588][187]LogInit: FAudioDevice initialized.
+[2023.11.28-03.56.08:588][187]LogAudio: Display: Audio Device (ID: 55) registered with world 'TowerRoomTestMap'.
+[2023.11.28-03.56.08:591][187]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-03.56.08:592][187]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap up for play (max tick rate 0) at 2023.11.28-00.56.08
+[2023.11.28-03.56.08:592][187]LogWorld: Bringing up level for play took: 0.001160
+[2023.11.28-03.56.08:594][187]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2023.11.28-03.56.08:609][187]PIE: Server logged in
+[2023.11.28-03.56.08:610][187]PIE: Play in editor total start time 0,168 seconds.
+[2023.11.28-03.56.15:394][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-03.56.15:394][937]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-03.56.15:394][937]LogWorld: UWorld::CleanupWorld for TowerRoomTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-03.56.15:396][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-03.56.15:399][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.28-03.56.15:407][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-03.56.15:476][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-03.56.15:477][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2023.11.28-03.56.15:479][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2023.11.28-03.56.15:487][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.11.28-03.56.15:535][938]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2023.11.28-03.56.24:101][383]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.28-03.56.24:109][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.28-03.56.24:109][383]PIE: New page: PIE session: TowerRoomTestMap (27 nov. 2023 21:56:24)
+[2023.11.28-03.56.24:109][383]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-03.56.24:113][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003895s)
+[2023.11.28-03.56.24:113][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TowerRoomTestMap.TowerRoomTestMap to /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap (0.003927s)
+[2023.11.28-03.56.24:113][383]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-03.56.24:114][383]LogAIModule: Creating AISystem for world TowerRoomTestMap
+[2023.11.28-03.56.24:114][383]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2023.11.28-03.56.24:189][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.11.28-03.56.24:193][383]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.11.28-03.56.24:193][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-03.56.24:193][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-03.56.24:193][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-03.56.24:193][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-03.56.24:193][383]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.28-03.56.24:193][383]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.28-03.56.24:193][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.28-03.56.24:193][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-03.56.24:193][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-03.56.24:193][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-03.56.24:193][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-03.56.24:195][383]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-03.56.24:229][383]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2023.11.28-03.56.24:229][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-03.56.24:229][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-03.56.24:229][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-03.56.24:230][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2023.11.28-03.56.24:230][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2023.11.28-03.56.24:232][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2023.11.28-03.56.24:232][383]LogInit: FAudioDevice initialized.
+[2023.11.28-03.56.24:232][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2023.11.28-03.56.24:232][383]LogAudio: Display: Audio Device (ID: 56) registered with world 'TowerRoomTestMap'.
+[2023.11.28-03.56.24:236][383]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-03.56.24:237][383]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap up for play (max tick rate 0) at 2023.11.28-00.56.24
+[2023.11.28-03.56.24:237][383]LogWorld: Bringing up level for play took: 0.001211
+[2023.11.28-03.56.24:239][383]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2023.11.28-03.56.24:253][383]PIE: Server logged in
+[2023.11.28-03.56.24:254][383]PIE: Play in editor total start time 0,145 seconds.
+[2023.11.28-03.57.09:584][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-03.57.09:584][841]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-03.57.09:584][841]LogWorld: UWorld::CleanupWorld for TowerRoomTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-03.57.09:586][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-03.57.09:589][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.28-03.57.09:598][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-03.57.09:671][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-03.57.09:671][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.11.28-03.57.09:673][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.11.28-03.57.09:681][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.28-03.57.09:725][842]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2023.11.28-03.57.49:818][538]LogDerivedDataCache: C:/Users/notic/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.244 and deleted 0 files with total size 0 MiB. Scanned 6071 files in 6029 folders with total size 742 MiB.
+[2023.11.28-04.01.03:257][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.11.28-04.01.03:271][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/TowerRoomTestMap_Auto8
+[2023.11.28-04.01.03:271][124]LogSavePackage: Moving '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/TowerRoomTestMap_Auto855B8191542390A8D56DB97AF3D93EFB1.tmp' to '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/FirstPerson/Maps/TowerRoomTestMap_Auto8.umap'
+[2023.11.28-04.01.03:280][124]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/TowerRoomTestMap' took 0.101
+[2023.11.28-04.01.03:280][124]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.101
+[2023.11.28-04.01.03:281][124]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo13] ([2] browsable assets)...
+[2023.11.28-04.01.03:292][124]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo13.BP_Modulo13]
+[2023.11.28-04.01.03:292][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo13]
+[2023.11.28-04.01.03:299][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo13_Auto8
+[2023.11.28-04.01.03:299][124]LogSavePackage: Moving '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo13_Auto851B9CF5A42D0113368605A8FC47D29FA.tmp' to '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo13_Auto8.uasset'
+[2023.11.28-04.01.03:300][124]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo14] ([2] browsable assets)...
+[2023.11.28-04.01.03:307][124]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo14.BP_Modulo14]
+[2023.11.28-04.01.03:307][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo14]
+[2023.11.28-04.01.03:312][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo14_Auto8
+[2023.11.28-04.01.03:312][124]LogSavePackage: Moving '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo14_Auto8E330A4194043332B3993B891BEA2CA90.tmp' to '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo14_Auto8.uasset'
+[2023.11.28-04.01.03:313][124]LogFileHelpers: Auto-saving content packages took 0.033
+[2023.11.28-04.04.37:864][466]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/BP_TowerStart.BP_TowerStart
+[2023.11.28-04.04.37:865][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-04.04.40:048][616]LogViewport: Scene viewport resized to 1198x875, mode Windowed.
+[2023.11.28-04.09.01:941][441]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.28-04.09.01:947][441]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.28-04.09.01:952][441]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.28-04.09.01:963][442]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.28-04.09.17:725][315]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Modulo15
+[2023.11.28-04.09.17:732][315]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.28-04.09.35:144][337]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Rooms/Modules/Hard/BP_Modulo15.BP_Modulo15
+[2023.11.28-04.09.35:144][337]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-04.09.35:700][337]LogViewport: Scene viewport resized to 1198x877, mode Windowed.
+[2023.11.28-04.11.03:249][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.11.28-04.11.03:252][751]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/TowerRoomTestMap' took 0.098
+[2023.11.28-04.11.03:253][751]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Rooms/Modules/Hard/BP_Modulo15] ([2] browsable assets)...
+[2023.11.28-04.11.03:263][751]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Rooms/Modules/Hard/BP_Modulo15.BP_Modulo15]
+[2023.11.28-04.11.03:263][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Rooms/Modules/Hard/BP_Modulo15]
+[2023.11.28-04.11.03:268][751]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Rooms/Modules/Hard/BP_Modulo15_Auto9
+[2023.11.28-04.11.03:268][751]LogSavePackage: Moving '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo15_Auto9301001624C02F191A2881E8C6566D4FC.tmp' to '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Blueprints/Rooms/Modules/Hard/BP_Modulo15_Auto9.uasset'
+[2023.11.28-04.11.03:269][751]LogFileHelpers: Auto-saving content packages took 0.016
+[2023.11.28-04.15.52:541][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-04.15.52:599][822]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo14
+[2023.11.28-04.15.52:600][822]LogSavePackage: Moving '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo14DAD987F444549FA717220AA66930F0AA.tmp' to '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Medium/BP_Modulo14.uasset'
+[2023.11.28-04.15.52:606][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 726 ms)
+[2023.11.28-04.15.52:620][822]AssetCheck: New page: Asset Save: BP_Modulo14
+[2023.11.28-04.15.52:620][822]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo14.BP_Modulo14
