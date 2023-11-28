@@ -2114,3 +2114,492 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.28-22.13.20:955][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 935 ms)
 [2023.11.28-22.13.20:963][797]AssetCheck: New page: Asset Save: Level1
 [2023.11.28-22.13.20:963][797]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Level1.Level1
+[2023.11.28-22.13.53:076][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.28-22.13.54:237][405]LogSlate: Window 'Save Content' being destroyed
+[2023.11.28-22.13.54:244][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-22.13.54:326][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Obstacles/BP_Jumper" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_Jumper.uasset" SILENT=true
+[2023.11.28-22.13.54:334][405]LogSavePackage: Moving output files for package: /Game/Blueprints/Obstacles/BP_Jumper
+[2023.11.28-22.13.54:334][405]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Jumper0089B3D048B2663D0F0A7891D53091F1.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_Jumper.uasset'
+[2023.11.28-22.13.54:342][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo1" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Medium/BP_Modulo1.uasset" SILENT=true
+[2023.11.28-22.13.54:348][405]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo1
+[2023.11.28-22.13.54:348][405]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo12E5A500145B78B9CECE4A691C88C739B.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Medium/BP_Modulo1.uasset'
+[2023.11.28-22.13.54:370][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo11" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo11.uasset" SILENT=true
+[2023.11.28-22.13.54:374][405]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo11
+[2023.11.28-22.13.54:376][405]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo11813A8D8841E9BAC4A4C93580161761C8.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo11.uasset'
+[2023.11.28-22.13.54:395][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo12" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo12.uasset" SILENT=true
+[2023.11.28-22.13.54:400][405]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo12
+[2023.11.28-22.13.54:400][405]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo12257E0FE044301CE83D5FE382F02CCC52.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo12.uasset'
+[2023.11.28-22.13.54:422][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo2" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo2.uasset" SILENT=true
+[2023.11.28-22.13.54:428][405]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo2
+[2023.11.28-22.13.54:428][405]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo2E5208A0C49F6FD062D7BD18F3EDC9BD1.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo2.uasset'
+[2023.11.28-22.13.54:451][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo5" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo5.uasset" SILENT=true
+[2023.11.28-22.13.54:455][405]LogSavePackage: Moving output files for package: /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo5
+[2023.11.28-22.13.54:455][405]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo5834AB5264BD3FBED6170E599D3FABDD6.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/Modules/Easy/BP_Modulo5.uasset'
+[2023.11.28-22.13.54:463][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 1.15 sec)
+[2023.11.28-22.13.54:525][405]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/TowerRoomTestMap.TowerRoomTestMap
+[2023.11.28-22.13.54:525][405]Cmd: MAP LOAD FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Maps/TowerRoomTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.28-22.13.54:525][405]LightingResults: New page: Lighting Build
+[2023.11.28-22.13.54:525][405]LoadErrors: New page: Loading map: TowerRoomTestMap.umap
+[2023.11.28-22.13.54:556][405]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-22.13.54:556][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.13.54:556][405]MapCheck: New page: Map Check
+[2023.11.28-22.13.54:556][405]LightingResults: New page: Lighting Build
+[2023.11.28-22.13.54:598][405]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.28-22.13.54:601][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.11.28-22.13.54:604][405]LogWorld: UWorld::CleanupWorld for TowerRoomTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-22.13.54:604][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.13.54:646][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.28-22.13.54:686][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.28-22.13.54:690][405]LogAudio: Display: Audio Device (ID: 1) registered with world 'TowerRoomTestMap'.
+[2023.11.28-22.13.54:690][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-22.13.54:690][405]LogAIModule: Creating AISystem for world TowerRoomTestMap
+[2023.11.28-22.13.54:706][405]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.28-22.13.54:750][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.28-22.13.54:758][405]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.28-22.13.54:758][405]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,066ms to complete.
+[2023.11.28-22.13.54:758][405]LogFileHelpers: Loading map 'TowerRoomTestMap' took 0.233
+[2023.11.28-22.13.54:793][405]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.28-22.13.54:793][405]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Obstacles/BP_Jumper.BP_Jumper
+[2023.11.28-22.13.54:793][405]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo1.BP_Modulo1
+[2023.11.28-22.13.54:793][405]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo5.BP_Modulo5
+[2023.11.28-22.13.54:793][405]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo2.BP_Modulo2
+[2023.11.28-22.13.54:793][405]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo12.BP_Modulo12
+[2023.11.28-22.13.54:793][405]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Rooms/Modules/Easy/BP_Modulo11.BP_Modulo11
+[2023.11.28-22.14.13:755][177]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.28-22.14.13:766][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.28-22.14.13:766][177]PIE: New page: PIE session: TowerRoomTestMap (28 nov. 2023 16:14:13)
+[2023.11.28-22.14.13:766][177]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-22.14.13:769][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003776s)
+[2023.11.28-22.14.13:769][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TowerRoomTestMap.TowerRoomTestMap to /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap (0.003806s)
+[2023.11.28-22.14.13:769][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-22.14.13:770][177]LogAIModule: Creating AISystem for world TowerRoomTestMap
+[2023.11.28-22.14.13:770][177]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2023.11.28-22.14.13:813][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.28-22.14.13:815][177]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.11.28-22.14.13:815][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-22.14.13:815][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-22.14.13:815][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-22.14.13:815][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-22.14.13:815][177]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.28-22.14.13:815][177]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.28-22.14.13:815][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.28-22.14.13:815][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-22.14.13:815][177]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-22.14.13:815][177]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-22.14.13:815][177]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-22.14.13:817][177]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-22.14.13:837][177]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Redragon Gaming Headset)
+[2023.11.28-22.14.13:837][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-22.14.13:837][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-22.14.13:837][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-22.14.13:838][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.11.28-22.14.13:838][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.11.28-22.14.13:839][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.11.28-22.14.13:839][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.11.28-22.14.13:839][177]LogInit: FAudioDevice initialized.
+[2023.11.28-22.14.13:839][177]LogAudio: Display: Audio Device (ID: 15) registered with world 'TowerRoomTestMap'.
+[2023.11.28-22.14.13:842][177]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-22.14.13:843][177]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap up for play (max tick rate 0) at 2023.11.28-19.14.13
+[2023.11.28-22.14.13:844][177]LogWorld: Bringing up level for play took: 0.001436
+[2023.11.28-22.14.13:845][177]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.11.28-22.14.13:852][177]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.28-22.14.13:858][177]PIE: Server logged in
+[2023.11.28-22.14.13:858][177]PIE: Play in editor total start time 0,098 seconds.
+[2023.11.28-22.14.16:039][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-22.14.16:039][338]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-22.14.16:039][338]LogWorld: UWorld::CleanupWorld for TowerRoomTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-22.14.16:041][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.14.16:046][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.28-22.14.16:052][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.14.16:092][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-22.14.16:093][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.28-22.14.16:094][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.28-22.14.16:101][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.11.28-22.14.16:136][339]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.11.28-22.14.17:143][428]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.28-22.14.17:143][428]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.28-22.14.17:143][428]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.28-22.14.20:066][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-22.14.20:177][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.28-22.14.20:188][696]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/TowerRoomTestMap
+[2023.11.28-22.14.20:188][696]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/TowerRoomTestMap60D119BB492BB44BEF3E42B6C1AF11CC.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Maps/TowerRoomTestMap.umap'
+[2023.11.28-22.14.20:196][696]LogFileHelpers: Saving map 'TowerRoomTestMap' took 0.060
+[2023.11.28-22.14.20:204][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 1.29 sec)
+[2023.11.28-22.14.20:212][696]AssetCheck: New page: Asset Save: TowerRoomTestMap
+[2023.11.28-22.14.20:212][696]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/TowerRoomTestMap.TowerRoomTestMap
+[2023.11.28-22.14.23:245][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-22.14.23:344][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.28-22.14.23:356][975]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/TowerRoomTestMap
+[2023.11.28-22.14.23:356][975]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/TowerRoomTestMap229E944B4B486414321424B6F63711B3.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Maps/TowerRoomTestMap.umap'
+[2023.11.28-22.14.23:364][975]LogFileHelpers: Saving map 'TowerRoomTestMap' took 0.060
+[2023.11.28-22.14.23:371][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1.41 sec)
+[2023.11.28-22.14.23:381][975]AssetCheck: New page: Asset Save: TowerRoomTestMap
+[2023.11.28-22.14.23:381][975]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/TowerRoomTestMap.TowerRoomTestMap
+[2023.11.28-22.14.24:756][ 95]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.28-22.14.24:762][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.28-22.14.24:762][ 95]PIE: New page: PIE session: TowerRoomTestMap (28 nov. 2023 16:14:24)
+[2023.11.28-22.14.24:789][ 95]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-22.14.24:793][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003547s)
+[2023.11.28-22.14.24:793][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TowerRoomTestMap.TowerRoomTestMap to /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap (0.003581s)
+[2023.11.28-22.14.24:793][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-22.14.24:793][ 95]LogAIModule: Creating AISystem for world TowerRoomTestMap
+[2023.11.28-22.14.24:794][ 95]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2023.11.28-22.14.24:835][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.28-22.14.24:836][ 95]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.11.28-22.14.24:836][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-22.14.24:836][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-22.14.24:836][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-22.14.24:836][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-22.14.24:836][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.28-22.14.24:836][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.28-22.14.24:836][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.28-22.14.24:836][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-22.14.24:836][ 95]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-22.14.24:836][ 95]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-22.14.24:836][ 95]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-22.14.24:838][ 95]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-22.14.24:858][ 95]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Redragon Gaming Headset)
+[2023.11.28-22.14.24:858][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-22.14.24:858][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-22.14.24:858][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-22.14.24:858][ 95]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.11.28-22.14.24:858][ 95]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.11.28-22.14.24:859][ 95]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.11.28-22.14.24:859][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.11.28-22.14.24:859][ 95]LogInit: FAudioDevice initialized.
+[2023.11.28-22.14.24:859][ 95]LogAudio: Display: Audio Device (ID: 16) registered with world 'TowerRoomTestMap'.
+[2023.11.28-22.14.24:863][ 95]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-22.14.24:865][ 95]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap up for play (max tick rate 0) at 2023.11.28-19.14.24
+[2023.11.28-22.14.24:865][ 95]LogWorld: Bringing up level for play took: 0.001719
+[2023.11.28-22.14.24:866][ 95]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.11.28-22.14.24:872][ 95]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.28-22.14.24:878][ 95]PIE: Server logged in
+[2023.11.28-22.14.24:878][ 95]PIE: Play in editor total start time 0,116 seconds.
+[2023.11.28-22.14.29:288][452]LogBlueprintUserMessages: [BP_TowerStart_C_1] newmod
+[2023.11.28-22.14.29:288][452]LogBlueprintUserMessages: [BP_TowerStart_C_1] newmod
+[2023.11.28-22.14.31:827][670]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.14.31:843][671]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.14.31:856][672]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.14.31:952][679]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.14.57:792][717]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.14.58:174][744]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.14.58:940][802]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=86.13 Y=26.99 Z=0.00 Location: X=-406.66 Y=788.28 Z=1383.53 Normal: X=-0.06 Y=-0.02 Z=1.00 PenetrationDepth:0.996 Actor:BP_TowerStart_C_1 Component:SM_BookShelf_01_Full3 BoneName:None (0 other events since notify)
+[2023.11.28-22.15.19:376][434]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.15.19:376][434]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.15.35:533][733]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.15.41:417][221]LogBlueprintUserMessages: [BP_Player_C_0] GAME OVER SCENE
+[2023.11.28-22.15.41:418][221]LogLongPackageNames: Warning: Can't Find URL: GameOver: . Invalidating and reverting to Default URL.
+[2023.11.28-22.15.41:429][222]LogLongPackageNames: Warning: Can't Find URL: GameOver: . Invalidating and reverting to Default URL.
+[2023.11.28-22.15.41:430][222]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.11.28-22.15.41:430][222]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.11.28-22.15.41:430][222]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/FirstPerson/Maps/FirstPersonMap'
+[2023.11.28-22.15.41:430][222]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.11.28-22.15.41:430][222]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/FirstPerson/Maps/FirstPersonMap'
+[2023.11.28-22.15.41:444][223]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap?closed
+[2023.11.28-22.15.41:444][223]LogNet: Connection failed; returning to Entry
+[2023.11.28-22.15.41:444][223]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap?closed
+[2023.11.28-22.15.41:444][223]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-22.15.41:444][223]LogWorld: UWorld::CleanupWorld for TowerRoomTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-22.15.41:446][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.15.41:514][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.28-22.15.41:518][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.11.28-22.15.41:545][223]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonMap'.
+[2023.11.28-22.15.41:545][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-22.15.41:545][223]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.28-22.15.41:546][223]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.28-22.15.41:546][223]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.28-22.15.41:546][223]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2023.11.28-22.15.41:563][223]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.28-22.15.41:563][223]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.28-22.15.41:563][223]LogWorldPartition: Display: GetPartitionedActors took 11 us
+[2023.11.28-22.15.41:573][223]LogLinker: Warning: [AssetLog] D:\CANDIOTI2-Jueves\ParkourTowerGame\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\2\SC\G3ANF40ETRBOF7B9BC22Q8.uasset: Failed to load '/Game/DreamscapeSeries/WallFix_SM_Wall_Modular_01_LOD0_002': Can't find file.
+[2023.11.28-22.15.41:573][223]LogLinker: Warning: [AssetLog] D:\CANDIOTI2-Jueves\ParkourTowerGame\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\2\SC\G3ANF40ETRBOF7B9BC22Q8.uasset: VerifyImport: Failed to load package for import object 'Package /Game/DreamscapeSeries/WallFix_SM_Wall_Modular_01_LOD0_002'
+[2023.11.28-22.15.41:580][223]LogLinker: Warning: [AssetLog] D:\CANDIOTI2-Jueves\ParkourTowerGame\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\4\34\RDW3P574GTGXK0K3N5RG4N.uasset: Failed to load '/Game/DreamscapeSeries/WallFix_SM_Wall_Modular_01_LOD0_001': Can't find file.
+[2023.11.28-22.15.41:580][223]LogLinker: Warning: [AssetLog] D:\CANDIOTI2-Jueves\ParkourTowerGame\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\4\34\RDW3P574GTGXK0K3N5RG4N.uasset: VerifyImport: Failed to load package for import object 'Package /Game/DreamscapeSeries/WallFix_SM_Wall_Modular_01_LOD0_001'
+[2023.11.28-22.15.41:581][223]LogLinker: Warning: [AssetLog] D:\CANDIOTI2-Jueves\ParkourTowerGame\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\4\JC\U3DJX2AA05W7PRQ1R1KUQ4.uasset: Failed to load '/Game/DreamscapeSeries/WallFix_SM_Wall_Modular_01_LOD0': Can't find file.
+[2023.11.28-22.15.41:581][223]LogLinker: Warning: [AssetLog] D:\CANDIOTI2-Jueves\ParkourTowerGame\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\4\JC\U3DJX2AA05W7PRQ1R1KUQ4.uasset: VerifyImport: Failed to load package for import object 'Package /Game/DreamscapeSeries/WallFix_SM_Wall_Modular_01_LOD0'
+[2023.11.28-22.15.41:627][223]LogWorldPartition: Display: GenerateStreaming took 63 ms
+[2023.11.28-22.15.41:629][223]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.11.28-22.15.41:629][223]LogWorldPartition: Display: WorldPartition initialize took 83 ms (total: 1.14 sec)
+[2023.11.28-22.15.41:629][223]LogPlayLevel: PIE: World Init took: (0.084631s)
+[2023.11.28-22.15.41:629][223]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-22.15.41:646][223]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.28-19.15.41
+[2023.11.28-22.15.41:646][223]LogWorld: Bringing up level for play took: 0.016751
+[2023.11.28-22.15.41:648][223]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.28-22.15.41:649][223]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1202.000 Y=850.000 Z=1725.013
+[2023.11.28-22.15.41:649][223]LogLoad: Took 0.204618 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2023.11.28-22.15.41:690][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.28-22.15.41:695][223]LogAudio: Warning: Detected orphaned looping sound 'A_Forest_Cue'.
+[2023.11.28-22.15.41:828][234]LogBlueprintUserMessages: [BP_Player_C_0] Respawn position is setted as 0,0,0 is this correct???
+[2023.11.28-22.15.42:155][259]LogShaderCompilers: Display: ================================================
+[2023.11.28-22.15.42:155][259]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.28-22.15.42:155][259]LogShaderCompilers: Display: Total job queries 379, among them cache hits 82 (21.64%)
+[2023.11.28-22.15.42:155][259]LogShaderCompilers: Display: Tracking 297 distinct input hashes that result in 213 distinct outputs (71.72%)
+[2023.11.28-22.15.42:155][259]LogShaderCompilers: Display: RAM used: 2.08 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.13%
+[2023.11.28-22.15.42:155][259]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.28-22.15.42:155][259]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.28-22.15.42:155][259]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.11.28-22.15.42:155][259]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.28-22.15.42:155][259]LogShaderCompilers: Display: ================================================
+[2023.11.28-22.15.43:049][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-22.15.43:049][329]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.28-22.15.43:049][329]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-22.15.43:051][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.15.43:052][329]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.11.28-22.15.43:054][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.28-22.15.43:060][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.15.43:103][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-22.15.43:103][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.11.28-22.15.43:104][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.11.28-22.15.43:114][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.28-22.15.43:149][330]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.11.28-22.15.44:268][450]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.28-22.15.44:274][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.28-22.15.44:274][450]PIE: New page: PIE session: TowerRoomTestMap (28 nov. 2023 16:15:44)
+[2023.11.28-22.15.44:309][450]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-22.15.44:313][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003672s)
+[2023.11.28-22.15.44:313][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TowerRoomTestMap.TowerRoomTestMap to /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap (0.003704s)
+[2023.11.28-22.15.44:313][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-22.15.44:313][450]LogAIModule: Creating AISystem for world TowerRoomTestMap
+[2023.11.28-22.15.44:314][450]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2023.11.28-22.15.44:354][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.28-22.15.44:355][450]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.11.28-22.15.44:355][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-22.15.44:355][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-22.15.44:355][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-22.15.44:355][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-22.15.44:355][450]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.28-22.15.44:355][450]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.28-22.15.44:355][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.28-22.15.44:355][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-22.15.44:355][450]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-22.15.44:355][450]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-22.15.44:355][450]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-22.15.44:357][450]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-22.15.44:377][450]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Redragon Gaming Headset)
+[2023.11.28-22.15.44:377][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-22.15.44:377][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-22.15.44:377][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-22.15.44:378][450]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.11.28-22.15.44:378][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.11.28-22.15.44:379][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.11.28-22.15.44:379][450]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.11.28-22.15.44:379][450]LogInit: FAudioDevice initialized.
+[2023.11.28-22.15.44:379][450]LogAudio: Display: Audio Device (ID: 17) registered with world 'TowerRoomTestMap'.
+[2023.11.28-22.15.44:382][450]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-22.15.44:383][450]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap up for play (max tick rate 0) at 2023.11.28-19.15.44
+[2023.11.28-22.15.44:383][450]LogWorld: Bringing up level for play took: 0.001534
+[2023.11.28-22.15.44:385][450]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.11.28-22.15.44:389][450]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.28-22.15.44:392][450]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.28-22.15.44:397][450]PIE: Server logged in
+[2023.11.28-22.15.44:398][450]PIE: Play in editor total start time 0,123 seconds.
+[2023.11.28-22.15.47:898][749]LogBlueprintUserMessages: [BP_TowerStart_C_1] newmod
+[2023.11.28-22.15.47:898][749]LogBlueprintUserMessages: [BP_TowerStart_C_1] newmod
+[2023.11.28-22.15.49:535][884]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.15.49:550][885]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.16.11:644][662]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.16.13:067][765]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.16.14:456][865]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.16.14:469][866]LogBlueprintUserMessages: [BP_Modulo1_C_0] newmod
+[2023.11.28-22.16.27:696][912]LogBlueprintUserMessages: [BP_Modulo2_C_0] newmod
+[2023.11.28-22.16.27:696][912]LogBlueprintUserMessages: [BP_Modulo2_C_0] newmod
+[2023.11.28-22.16.28:058][939]LogBlueprintUserMessages: [BP_Modulo2_C_0] newmod
+[2023.11.28-22.16.28:423][967]LogBlueprintUserMessages: [BP_Modulo2_C_0] newmod
+[2023.11.28-22.16.34:257][411]LogBlueprintUserMessages: [BP_Modulo1_C_1] newmod
+[2023.11.28-22.16.34:272][412]LogBlueprintUserMessages: [BP_Modulo1_C_1] newmod
+[2023.11.28-22.16.35:089][472]LogBlueprintUserMessages: [BP_Modulo1_C_1] newmod
+[2023.11.28-22.16.35:089][472]LogBlueprintUserMessages: [BP_Modulo1_C_1] newmod
+[2023.11.28-22.16.35:329][490]LogBlueprintUserMessages: [BP_Modulo1_C_1] newmod
+[2023.11.28-22.16.39:868][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-22.16.39:868][847]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-22.16.39:868][847]LogWorld: UWorld::CleanupWorld for TowerRoomTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-22.16.39:870][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.16.39:876][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.28-22.16.39:881][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.16.39:922][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-22.16.39:922][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.11.28-22.16.39:924][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.11.28-22.16.39:930][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.11.28-22.16.39:964][848]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.11.28-22.16.41:850][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-22.16.41:958][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.11.28-22.16.41:970][ 57]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/TowerRoomTestMap
+[2023.11.28-22.16.41:970][ 57]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/TowerRoomTestMap08A94A3F4051DEE2D2B0709A45D886DA.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/Maps/TowerRoomTestMap.umap'
+[2023.11.28-22.16.41:978][ 57]LogFileHelpers: Saving map 'TowerRoomTestMap' took 0.061
+[2023.11.28-22.16.41:994][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 1.56 sec)
+[2023.11.28-22.16.42:003][ 57]AssetCheck: New page: Asset Save: TowerRoomTestMap
+[2023.11.28-22.16.42:003][ 57]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/TowerRoomTestMap.TowerRoomTestMap
+[2023.11.28-22.16.47:404][651]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.28-22.16.47:404][651]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.28-22.16.47:404][651]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.28-22.16.51:044][ 12]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.28-22.16.51:044][ 12]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.28-22.16.51:044][ 12]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.28-22.16.56:443][560]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.28-22.16.56:450][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.28-22.16.56:450][560]PIE: New page: PIE session: TowerRoomTestMap (28 nov. 2023 16:16:56)
+[2023.11.28-22.16.56:450][560]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-22.16.56:454][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003861s)
+[2023.11.28-22.16.56:454][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TowerRoomTestMap.TowerRoomTestMap to /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap (0.003889s)
+[2023.11.28-22.16.56:454][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-22.16.56:454][560]LogAIModule: Creating AISystem for world TowerRoomTestMap
+[2023.11.28-22.16.56:454][560]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2023.11.28-22.16.56:497][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.28-22.16.56:499][560]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.11.28-22.16.56:499][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-22.16.56:499][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-22.16.56:499][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-22.16.56:499][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-22.16.56:499][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.28-22.16.56:499][560]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.28-22.16.56:499][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.28-22.16.56:499][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-22.16.56:499][560]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-22.16.56:499][560]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-22.16.56:499][560]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-22.16.56:501][560]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-22.16.56:521][560]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (2- Redragon Gaming Headset)
+[2023.11.28-22.16.56:521][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-22.16.56:521][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-22.16.56:521][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-22.16.56:522][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.11.28-22.16.56:522][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.11.28-22.16.56:523][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.11.28-22.16.56:523][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.11.28-22.16.56:523][560]LogInit: FAudioDevice initialized.
+[2023.11.28-22.16.56:523][560]LogAudio: Display: Audio Device (ID: 18) registered with world 'TowerRoomTestMap'.
+[2023.11.28-22.16.56:526][560]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-22.16.56:527][560]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap.TowerRoomTestMap up for play (max tick rate 0) at 2023.11.28-19.16.56
+[2023.11.28-22.16.56:527][560]LogWorld: Bringing up level for play took: 0.001371
+[2023.11.28-22.16.56:529][560]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.11.28-22.16.56:536][560]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.28-22.16.56:538][560]PIE: Server logged in
+[2023.11.28-22.16.56:539][560]PIE: Play in editor total start time 0,089 seconds.
+[2023.11.28-22.16.59:677][827]LogBlueprintUserMessages: [BP_TowerStart_C_1] newmod
+[2023.11.28-22.16.59:677][827]LogBlueprintUserMessages: [BP_TowerStart_C_1] newmod
+[2023.11.28-22.17.01:456][977]LogBlueprintUserMessages: [BP_Modulo4_C_0] newmod
+[2023.11.28-22.17.01:467][978]LogBlueprintUserMessages: [BP_Modulo4_C_0] newmod
+[2023.11.28-22.17.01:482][979]LogBlueprintUserMessages: [BP_Modulo4_C_0] newmod
+[2023.11.28-22.17.02:820][ 85]LogBlueprintUserMessages: [BP_Modulo4_C_0] newmod
+[2023.11.28-22.17.37:155][970]LogBlueprintUserMessages: [BP_Modulo4_C_0] newmod
+[2023.11.28-22.17.53:699][439]LogBlueprintUserMessages: [BP_Player_C_0] GAME OVER SCENE
+[2023.11.28-22.17.53:700][439]LogLongPackageNames: Warning: Can't Find URL: GameOver: . Invalidating and reverting to Default URL.
+[2023.11.28-22.17.53:714][440]LogLongPackageNames: Warning: Can't Find URL: GameOver: . Invalidating and reverting to Default URL.
+[2023.11.28-22.17.53:714][440]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.11.28-22.17.53:714][440]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.11.28-22.17.53:714][440]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/FirstPerson/Maps/FirstPersonMap'
+[2023.11.28-22.17.53:714][440]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.11.28-22.17.53:714][440]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/FirstPerson/Maps/FirstPersonMap'
+[2023.11.28-22.17.53:726][441]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap?closed
+[2023.11.28-22.17.53:726][441]LogNet: Connection failed; returning to Entry
+[2023.11.28-22.17.53:726][441]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap?closed
+[2023.11.28-22.17.53:726][441]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TowerRoomTestMap
+[2023.11.28-22.17.53:727][441]LogWorld: UWorld::CleanupWorld for TowerRoomTestMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-22.17.53:728][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.17.53:807][441]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.28-22.17.53:810][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.28-22.17.53:835][441]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonMap'.
+[2023.11.28-22.17.53:835][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-22.17.53:835][441]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.28-22.17.53:835][441]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.28-22.17.53:835][441]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.28-22.17.53:835][441]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2023.11.28-22.17.53:853][441]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.28-22.17.53:853][441]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.28-22.17.53:853][441]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 18 us)
+[2023.11.28-22.17.53:916][441]LogWorldPartition: Display: GenerateStreaming took 62 ms (total: 125 ms)
+[2023.11.28-22.17.53:918][441]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.11.28-22.17.53:918][441]LogWorldPartition: Display: WorldPartition initialize took 82 ms (total: 1.23 sec)
+[2023.11.28-22.17.53:918][441]LogPlayLevel: PIE: World Init took: (0.083670s)
+[2023.11.28-22.17.53:918][441]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.28-22.17.53:934][441]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.28-19.17.53
+[2023.11.28-22.17.53:935][441]LogWorld: Bringing up level for play took: 0.016388
+[2023.11.28-22.17.53:936][441]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.28-22.17.53:937][441]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1202.000 Y=850.000 Z=1725.013
+[2023.11.28-22.17.53:937][441]LogLoad: Took 0.211415 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2023.11.28-22.17.53:980][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.28-22.17.53:984][441]LogAudio: Warning: Detected orphaned looping sound 'A_Forest_Cue'.
+[2023.11.28-22.17.54:046][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-22.17.54:046][443]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.28-22.17.54:046][443]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-22.17.54:047][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.17.54:048][443]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.11.28-22.17.54:051][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.28-22.17.54:057][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-22.17.54:097][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-22.17.54:098][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.28-22.17.54:099][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.28-22.17.54:108][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.11.28-22.17.54:144][444]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.11.28-22.18.09:707][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:711][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_8.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:713][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:716][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:718][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:719][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:719][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:719][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:719][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_6.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:719][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:723][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:727][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:727][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:727][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:727][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:727][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:729][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:731][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:735][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:737][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.09:983][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-22.18.10:059][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Obstacles/BP_Jumper" FILE="D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_Jumper.uasset" SILENT=true
+[2023.11.28-22.18.10:067][ 55]LogSavePackage: Moving output files for package: /Game/Blueprints/Obstacles/BP_Jumper
+[2023.11.28-22.18.10:067][ 55]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Jumper49C968A64DA697EB66A972852D7C98E3.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Obstacles/BP_Jumper.uasset'
+[2023.11.28-22.18.10:074][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.65 sec)
+[2023.11.28-22.18.10:083][ 55]AssetCheck: New page: Asset Save: BP_Jumper
+[2023.11.28-22.18.10:083][ 55]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Obstacles/BP_Jumper.BP_Jumper
+[2023.11.28-22.18.11:185][176]BlueprintLog: New page: Compile BP_Jumper
+[2023.11.28-22.18.11:266][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.11.28-22.18.11:271][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:275][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_34.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:275][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:275][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_32.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:275][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_30.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:275][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:276][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:278][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:281][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:284][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:293][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:297][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_46.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:297][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_44.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:297][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:297][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:297][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_42.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:298][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:300][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:303][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.11:305][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:740][503]BlueprintLog: New page: Compile BP_Player
+[2023.11.28-22.18.14:908][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.11.28-22.18.14:921][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:925][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_58.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:927][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:927][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_54.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:927][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_57.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:927][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_56.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:928][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:928][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_59.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:932][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:936][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:987][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:990][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_70.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:990][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_68.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:990][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_69.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:990][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_67.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:990][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_66.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:991][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_71.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:993][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.14:996][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2023.11.28-22.18.15:000][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_Jumper_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
