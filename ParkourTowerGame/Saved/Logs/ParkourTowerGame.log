@@ -2829,3 +2829,54 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.28-22.29.15:520][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 2.56 sec)
 [2023.11.28-22.29.15:531][ 64]AssetCheck: New page: Asset Save: TowerRoomTestMap
 [2023.11.28-22.29.15:531][ 64]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/TowerRoomTestMap.TowerRoomTestMap
+[2023.11.28-22.31.30:974][564]LogAutomationController: Ignoring very large delta of 34.48 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.28-22.31.40:662][ 65]LogAutomationController: Ignoring very large delta of 4.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.28-22.31.50:294][805]LogAutomationController: Ignoring very large delta of 2.20 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.28-22.32.02:014][490]LogAutomationController: Ignoring very large delta of 4.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.28-22.39.15:574][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.28-22.39.15:576][562]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/TowerRoomTestMap' took 0.055
+[2023.11.28-22.39.15:577][562]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo1] ([2] browsable assets)...
+[2023.11.28-22.39.15:577][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo1]
+[2023.11.28-22.39.15:582][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo1_Auto1
+[2023.11.28-22.39.15:582][562]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo1_Auto1A0DD9392468A20D36CAB47AA6528357E.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo1_Auto1.uasset'
+[2023.11.28-22.39.15:583][562]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo11] ([2] browsable assets)...
+[2023.11.28-22.39.15:583][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo11]
+[2023.11.28-22.39.15:586][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo11_Auto1
+[2023.11.28-22.39.15:587][562]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo11_Auto153777536495BF601424D2298FC1322B4.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo11_Auto1.uasset'
+[2023.11.28-22.39.15:588][562]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo12] ([2] browsable assets)...
+[2023.11.28-22.39.15:588][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo12]
+[2023.11.28-22.39.15:594][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo12_Auto1
+[2023.11.28-22.39.15:594][562]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo12_Auto1D68C1D854E9D2E16E0D961B4F80B4319.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo12_Auto1.uasset'
+[2023.11.28-22.39.15:594][562]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo2] ([2] browsable assets)...
+[2023.11.28-22.39.15:594][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo2]
+[2023.11.28-22.39.15:600][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo2_Auto1
+[2023.11.28-22.39.15:600][562]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo2_Auto159C187C84F9531C13325E6B04A9B809F.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo2_Auto1.uasset'
+[2023.11.28-22.39.15:601][562]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo5] ([2] browsable assets)...
+[2023.11.28-22.39.15:601][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo5]
+[2023.11.28-22.39.15:618][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo5_Auto1
+[2023.11.28-22.39.15:618][562]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo5_Auto1F8BAECF64B861BF0F01860B40EB112C3.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Blueprints/Rooms/Modules/Easy/BP_Modulo5_Auto1.uasset'
+[2023.11.28-22.39.15:619][562]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo8] ([2] browsable assets)...
+[2023.11.28-22.39.15:661][562]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo8.BP_Modulo8]
+[2023.11.28-22.39.15:661][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo8]
+[2023.11.28-22.39.15:665][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo8_Auto1
+[2023.11.28-22.39.15:665][562]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo8_Auto19454F4F844CAF5BD926B56922F1DBB80.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo8_Auto1.uasset'
+[2023.11.28-22.39.15:666][562]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo15] ([2] browsable assets)...
+[2023.11.28-22.39.15:687][562]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo15.BP_Modulo15]
+[2023.11.28-22.39.15:687][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo15]
+[2023.11.28-22.39.15:692][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo15_Auto1
+[2023.11.28-22.39.15:693][562]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo15_Auto1751633E9449D9011106564BD33339ECB.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo15_Auto1.uasset'
+[2023.11.28-22.39.15:694][562]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo6] ([2] browsable assets)...
+[2023.11.28-22.39.15:701][562]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Rooms/Modules/Medium/BP_Modulo6.BP_Modulo6]
+[2023.11.28-22.39.15:702][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo6]
+[2023.11.28-22.39.15:706][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo6_Auto1
+[2023.11.28-22.39.15:707][562]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo6_Auto1460F6EE549337439559237802C0EF826.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Blueprints/Rooms/Modules/Medium/BP_Modulo6_Auto1.uasset'
+[2023.11.28-22.39.15:708][562]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Rooms/Modules/Hard/BP_Modulo3] ([2] browsable assets)...
+[2023.11.28-22.39.15:715][562]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Rooms/Modules/Hard/BP_Modulo3.BP_Modulo3]
+[2023.11.28-22.39.15:716][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Rooms/Modules/Hard/BP_Modulo3]
+[2023.11.28-22.39.15:722][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Rooms/Modules/Hard/BP_Modulo3_Auto1
+[2023.11.28-22.39.15:722][562]LogSavePackage: Moving 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_Modulo3_Auto1A295A6214CB06C3A2794649AE328FCAA.tmp' to 'D:/CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Blueprints/Rooms/Modules/Hard/BP_Modulo3_Auto1.uasset'
+[2023.11.28-22.39.15:722][562]LogFileHelpers: Auto-saving content packages took 0.146
+[2023.11.28-22.41.43:176][165]LogAutomationController: Ignoring very large delta of 3.42 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.28-22.44.08:340][679]LogAutomationController: Ignoring very large delta of 4.73 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.28-22.44.40:054][262]LogAutomationController: Ignoring very large delta of 4.82 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.28-22.51.41:140][724]LogAutomationController: Ignoring very large delta of 3.79 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
