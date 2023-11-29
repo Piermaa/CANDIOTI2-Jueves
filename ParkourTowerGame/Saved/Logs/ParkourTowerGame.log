@@ -4716,3 +4716,292 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.11.29-19.34.44:817][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.42 sec)
 [2023.11.29-19.34.44:834][372]AssetCheck: New page: Asset Save: LS_EnterTower
 [2023.11.29-19.34.44:835][372]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequence/LS_EnterTower.LS_EnterTower
+[2023.11.29-19.42.39:298][825]Cmd: TRANSACTION UNDO
+[2023.11.29-19.42.39:298][825]LogEditorTransaction: Undo Reset to Default
+[2023.11.29-19.42.40:647][878]Cmd: TRANSACTION UNDO
+[2023.11.29-19.42.40:647][878]LogEditorTransaction: Undo Edit Max Focal Length
+[2023.11.29-19.43.15:155][977]Cmd: TRANSACTION UNDO
+[2023.11.29-19.43.15:155][977]LogEditorTransaction: Undo Reset to Default
+[2023.11.29-19.43.15:791][994]Cmd: TRANSACTION UNDO
+[2023.11.29-19.43.15:791][994]LogEditorTransaction: Undo Edit Max Focal Length
+[2023.11.29-19.44.44:061][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.11.29-19.44.44:066][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Maps/Level1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.29-19.44.44:086][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level1_Auto6
+[2023.11.29-19.44.44:087][192]LogSavePackage: Moving '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/Level1_Auto6E445F9854577DB9585C842A1431BA73F.tmp' to '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/Autosaves/Game/Maps/Level1_Auto6.umap'
+[2023.11.29-19.44.44:094][192]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.085
+[2023.11.29-19.44.44:094][192]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2023.11.29-19.45.07:944][ 51]BlueprintLog: New page: Compile Level1
+[2023.11.29-19.45.08:017][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.11.29-19.48.27:570][444]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.29-19.48.27:570][444]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.29-19.48.27:570][444]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.29-19.50.18:977][268]BlueprintLog: New page: Compile Level1
+[2023.11.29-19.50.18:979][268]LogBlueprint: Error: [AssetLog] D:\CANDIOTI2-Jueves\ParkourTowerGame\Content\Maps\Level1.umap: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.11.29-19.50.19:089][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.11.29-19.50.24:644][916]BlueprintLog: New page: Compile Level1
+[2023.11.29-19.50.24:710][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.11.29-19.50.30:352][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.11.29-19.50.31:837][467]LogSlate: Window 'Save Content' being destroyed
+[2023.11.29-19.50.31:844][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-19.50.31:901][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.29-19.50.31:954][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.29-19.50.31:976][467]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2023.11.29-19.50.31:977][467]LogSavePackage: Moving '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/Level11A8CC33A42232494148EE7B01108BEE0.tmp' to '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/Level1.umap'
+[2023.11.29-19.50.31:992][467]LogFileHelpers: Saving map 'Level1' took 0.092
+[2023.11.29-19.50.31:998][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 4.57 sec)
+[2023.11.29-19.50.32:120][467]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TutorialLevel.TutorialLevel
+[2023.11.29-19.50.32:120][467]Cmd: MAP LOAD FILE="../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.29-19.50.32:120][467]LightingResults: New page: Lighting Build
+[2023.11.29-19.50.32:120][467]LoadErrors: New page: Loading map: TutorialLevel.umap
+[2023.11.29-19.50.32:163][467]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.32:164][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-19.50.32:245][467]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.32:245][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-19.50.32:245][467]MapCheck: New page: Map Check
+[2023.11.29-19.50.32:245][467]LightingResults: New page: Lighting Build
+[2023.11.29-19.50.32:291][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.29-19.50.32:299][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.11.29-19.50.32:314][467]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.32:315][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-19.50.32:318][467]LogWorld: UWorld::CleanupWorld for Level1_Auto3, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.32:319][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-19.50.32:319][467]LogWorld: UWorld::CleanupWorld for Level1_Auto4, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.32:319][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-19.50.32:320][467]LogWorld: UWorld::CleanupWorld for Level1_Auto5, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.32:320][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-19.50.32:370][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.11.29-19.50.32:410][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.11.29-19.50.32:436][467]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2023.11.29-19.50.32:436][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-19.50.32:437][467]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.11.29-19.50.32:496][467]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.29-19.50.32:542][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.11.29-19.50.32:561][467]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.29-19.50.32:561][467]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,145ms to complete.
+[2023.11.29-19.50.32:561][467]LogFileHelpers: Loading map 'TutorialLevel' took 0.442
+[2023.11.29-19.50.32:589][467]AssetCheck: New page: Asset Save: Level1
+[2023.11.29-19.50.33:838][557]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.29-19.50.33:849][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.29-19.50.33:849][557]PIE: New page: PIE session: TutorialLevel (29 nov. 2023 13:50:33)
+[2023.11.29-19.50.33:875][557]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.11.29-19.50.33:925][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050522s)
+[2023.11.29-19.50.33:925][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.050575s)
+[2023.11.29-19.50.33:925][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.29-19.50.33:926][557]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.11.29-19.50.33:926][557]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2023.11.29-19.50.33:970][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.29-19.50.33:972][557]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.11.29-19.50.33:972][557]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.29-19.50.33:972][557]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.29-19.50.33:972][557]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.29-19.50.33:972][557]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.29-19.50.33:972][557]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.29-19.50.33:972][557]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.29-19.50.33:972][557]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.29-19.50.33:972][557]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.29-19.50.33:972][557]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.29-19.50.33:972][557]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.29-19.50.33:972][557]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.29-19.50.33:974][557]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.29-19.50.34:002][557]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2023.11.29-19.50.34:003][557]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.29-19.50.34:003][557]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.29-19.50.34:003][557]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.29-19.50.34:004][557]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.11.29-19.50.34:004][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.11.29-19.50.34:006][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.11.29-19.50.34:006][557]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.11.29-19.50.34:006][557]LogInit: FAudioDevice initialized.
+[2023.11.29-19.50.34:006][557]LogAudio: Display: Audio Device (ID: 24) registered with world 'TutorialLevel'.
+[2023.11.29-19.50.34:009][557]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.29-19.50.34:020][557]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.11.29-16.50.34
+[2023.11.29-19.50.34:020][557]LogWorld: Bringing up level for play took: 0.011237
+[2023.11.29-19.50.34:022][557]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.11.29-19.50.34:074][557]PIE: Server logged in
+[2023.11.29-19.50.34:075][557]PIE: Play in editor total start time 0,229 seconds.
+[2023.11.29-19.50.34:081][557]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2023.11.29-19.50.34:089][557]LogAudio: Warning: Detected orphaned looping sound 'A_Forest_Cue'.
+[2023.11.29-19.50.41:625][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-19.50.41:625][219]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.11.29-19.50.41:626][219]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.41:627][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-19.50.41:630][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.29-19.50.41:638][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-19.50.41:680][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.29-19.50.41:682][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.29-19.50.41:684][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.29-19.50.41:693][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.11.29-19.50.41:721][220]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.11.29-19.50.44:220][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.29-19.50.44:252][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TutorialLevel" FILE="../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/TutorialLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.29-19.50.44:292][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.11.29-19.50.44:362][512]LogSavePackage: Moving output files for package: /Game/Maps/TutorialLevel
+[2023.11.29-19.50.44:363][512]LogSavePackage: Moving '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Saved/TutorialLevelDBDD6A9548C182B5D201EFA520975205.tmp' to '../../../../../CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/TutorialLevel.umap'
+[2023.11.29-19.50.44:379][512]LogFileHelpers: Saving map 'TutorialLevel' took 0.128
+[2023.11.29-19.50.44:385][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 4.74 sec)
+[2023.11.29-19.50.44:399][512]AssetCheck: New page: Asset Save: TutorialLevel
+[2023.11.29-19.50.44:399][512]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/TutorialLevel.TutorialLevel
+[2023.11.29-19.50.46:793][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.11.29-19.50.46:796][789]LogStall: Shutdown...
+[2023.11.29-19.50.46:815][789]LogStall: Shutdown complete.
+[2023.11.29-19.50.46:871][789]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.46:871][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-19.50.47:248][789]LogSlate: Window 'ParkourTowerGame - Unreal Editor' being destroyed
+[2023.11.29-19.50.47:536][790]Cmd: QUIT_EDITOR
+[2023.11.29-19.50.47:536][790]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.11.29-19.50.47:627][790]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.11.29-19.50.47:627][790]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.11.29-19.50.47:627][790]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.11.29-19.50.47:713][790]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.47:713][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.29-19.50.47:902][790]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.11.29-19.50.47:979][790]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.11.29-19.50.48:801][790]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.11.29-19.50.48:801][790]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.11.29-19.50.48:801][790]LogAudio: Display: Audio Device unregistered from world 'TutorialLevel'.
+[2023.11.29-19.50.48:801][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.11.29-19.50.48:804][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.11.29-19.50.48:819][790]LogAudio: Display: Audio Device Manager Shutdown
+[2023.11.29-19.50.48:886][790]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.11.29-19.50.48:899][790]LogExit: Preparing to exit.
+[2023.11.29-19.50.49:690][790]LogUObjectHash: Compacting FUObjectHashTables data took  34.42ms
+[2023.11.29-19.50.49:745][790]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:745][790]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:748][790]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:748][790]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.49:749][790]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.29-19.50.52:055][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:055][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:055][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:055][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:055][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:055][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:055][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:055][790]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:058][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:058][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:058][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:058][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:058][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:058][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:058][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:058][790]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:061][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:061][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:061][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:062][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:062][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:062][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:062][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:062][790]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:064][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:064][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:064][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:064][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:064][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:064][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:064][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:064][790]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:067][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:067][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:067][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:067][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:067][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:067][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:067][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:067][790]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:069][790]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:072][790]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:074][790]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:076][790]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:078][790]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:080][790]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:083][790]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:085][790]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:087][790]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:089][790]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:091][790]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:093][790]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:095][790]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:097][790]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:098][790]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:100][790]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:102][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:102][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:102][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:102][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:102][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:102][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:102][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:102][790]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:104][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:104][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:104][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:104][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:104][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:104][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:105][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:105][790]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:107][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:107][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:107][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:107][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:107][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:107][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:107][790]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.11.29-19.50.52:107][790]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:109][790]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:111][790]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:113][790]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:115][790]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.11.29-19.50.52:896][790]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.11.29-19.50.53:558][790]LogExit: Editor shut down
+[2023.11.29-19.50.53:561][790]LogExit: Transaction tracking system shut down
+[2023.11.29-19.51.04:542][790]LogExit: Object subsystem successfully closed.
+[2023.11.29-19.51.04:548][790]LogShaderCompilers: Display: ================================================
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Total job queries 598, among them cache hits 208 (34.78%)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Tracking 390 distinct input hashes that result in 266 distinct outputs (68.21%)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: RAM used: 2.69 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.33%
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Shaders Compiled: 18
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100.00%)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Average time worker was idle: 7203.72 s
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Job execution time: average 2.63 s, max 4.54 s
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Job life time (pending + execution): average 2.66 s, max 4.56
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.64 s
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Average processing rate: 1.87 jobs/sec
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Total thread time: 13.25 s
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Total thread preprocess time: 2.79 s
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Percentage time preprocessing: 21.08%
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Effective parallelization: 1.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.47 sec, max 1.47 sec, min 1.47 sec)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.81 sec, max 1.03 sec, min 0.64 sec)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.79 sec, max 0.88 sec, min 0.70 sec)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.61% of total time (compiled    4 times, average 0.81 sec, max 1.03 sec, min 0.64 sec)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.89% of total time (compiled    4 times, average 0.79 sec, max 0.88 sec, min 0.70 sec)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.14% of total time (compiled    2 times, average 0.74 sec, max 0.80 sec, min 0.67 sec)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 11.07% of total time (compiled    1 times, average 1.47 sec, max 1.47 sec, min 1.47 sec)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 10.11% of total time (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2023.11.29-19.51.04:549][790]LogShaderCompilers: Display: ================================================
+[2023.11.29-19.51.04:602][790]LogShaderCompilers: Display: Shaders left to compile 0
