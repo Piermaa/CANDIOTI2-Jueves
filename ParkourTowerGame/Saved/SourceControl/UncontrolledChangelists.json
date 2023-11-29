@@ -7,7 +7,8 @@
 			"files": [
 				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Sequence/LS_EndingCinematic.uasset",
 				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/EndingCinematic.umap",
-				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/BP_TowerEnd.uasset"
+				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/BP_TowerEnd.uasset",
+				"D:/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/Rooms/BP_RandomRoomGenerator.uasset"
 			]
 		}
 	]
