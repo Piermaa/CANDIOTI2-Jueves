@@ -2487,3 +2487,70 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.30-06.25.01:528][552]LogPlayLevel: Display: Destroying online subsystem :Context_24
 [2023.11.30-06.25.04:449][871]LogSlate: Window 'Message Log' being destroyed
 [2023.11.30-06.25.04:457][871]LogSlate: Window 'Message Log' being destroyed
+[2023.11.30-06.25.40:151][112]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.11.30-06.25.40:377][112]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18096
+[2023.11.30-06.25.40:410][113]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 345) with Args (NumChannels=2, SampleRate=96000, DeviceID={0.0.0.00000000}.{73fb67e2-a93c-4ceb-956f-ea316306e813} Name=Analog (9+10) (RME Fireface UFX))
+[2023.11.30-06.25.43:109][121]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Analog (11+12) (RME Fireface UFX), InstanceID=1
+[2023.11.30-06.25.43:406][122]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 345) with Args (NumChannels=2, SampleRate=96000, DeviceID={0.0.0.00000000}.{87f3d5c5-0e87-4ffd-9ce1-18dc502ee4f8} Name=Analog (11+12) (RME Fireface UFX))
+[2023.11.30-06.25.44:436][125]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (RME Fireface UFX), InstanceID=1
+[2023.11.30-06.25.44:750][126]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 345) with Args (NumChannels=2, SampleRate=96000, DeviceID={0.0.0.00000000}.{9e9edb44-aa28-46a1-8285-1c2b7e92da50} Name=Altavoces (RME Fireface UFX))
+[2023.11.30-06.25.46:191][130]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Analog (3+4) (RME Fireface UFX), InstanceID=1
+[2023.11.30-06.25.46:409][131]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 345) with Args (NumChannels=2, SampleRate=96000, DeviceID={0.0.0.00000000}.{b0a0ff7a-bacf-41ae-a47c-ddae52d19136} Name=Analog (3+4) (RME Fireface UFX))
+[2023.11.30-06.25.47:697][134]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=AES (RME Fireface UFX), InstanceID=1
+[2023.11.30-06.25.47:739][135]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 345) with Args (NumChannels=2, SampleRate=96000, DeviceID={0.0.0.00000000}.{fd5ccd9a-bbf8-4c30-8b68-d3c3cc120154} Name=AES (RME Fireface UFX))
+[2023.11.30-06.25.49:241][139]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T24C550 (NVIDIA High Definition Audio), InstanceID=1
+[2023.11.30-06.25.49:717][140]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{91faaee2-691d-4270-9653-3abdce55571b}, Name=T24C550 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=75.94
+[2023.11.30-06.25.49:717][140]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.30-06.25.49:718][140]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.30-06.25.58:596][167]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (2- Logi USB Headset), InstanceID=1
+[2023.11.30-06.25.58:721][167]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18096
+[2023.11.30-06.25.59:055][168]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8542b1af-8514-47ca-9795-24a25af9e1aa}, Name=Altavoces (2- Logi USB Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=46.36
+[2023.11.30-06.25.59:055][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.30-06.25.59:057][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.30-06.26.00:860][174]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T24C550 (NVIDIA High Definition Audio), InstanceID=1
+[2023.11.30-06.26.01:054][174]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18096
+[2023.11.30-06.26.01:389][175]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{91faaee2-691d-4270-9653-3abdce55571b}, Name=T24C550 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.70
+[2023.11.30-06.26.01:389][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.30-06.26.01:390][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.30-06.26.03:736][183]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (2- Logi USB Headset), InstanceID=1
+[2023.11.30-06.26.04:054][183]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18096
+[2023.11.30-06.26.04:390][184]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8542b1af-8514-47ca-9795-24a25af9e1aa}, Name=Altavoces (2- Logi USB Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.69
+[2023.11.30-06.26.04:390][184]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.30-06.26.04:394][184]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.30-06.26.14:384][214]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T24C550 (NVIDIA High Definition Audio), InstanceID=1
+[2023.11.30-06.26.14:392][214]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18096
+[2023.11.30-06.26.14:726][215]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{91faaee2-691d-4270-9653-3abdce55571b}, Name=T24C550 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=107.09
+[2023.11.30-06.26.14:726][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.30-06.26.14:727][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.30-06.26.24:008][243]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (Logi USB Headset), InstanceID=1
+[2023.11.30-06.26.24:062][243]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18096
+[2023.11.30-06.26.24:731][245]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{4b8360f2-b80d-41e5-99bf-2c01276291e9}, Name=Altavoces (Logi USB Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=453.91
+[2023.11.30-06.26.24:731][245]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.30-06.26.24:733][245]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.30-06.26.46:649][311]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T24C550 (NVIDIA High Definition Audio), InstanceID=1
+[2023.11.30-06.26.46:741][311]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18096
+[2023.11.30-06.26.47:076][312]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{91faaee2-691d-4270-9653-3abdce55571b}, Name=T24C550 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=105.31
+[2023.11.30-06.26.47:076][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.30-06.26.47:078][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.30-06.26.48:626][317]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (2- Logi USB Headset), InstanceID=1
+[2023.11.30-06.26.48:741][317]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18096
+[2023.11.30-06.26.49:076][318]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8542b1af-8514-47ca-9795-24a25af9e1aa}, Name=Altavoces (2- Logi USB Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=45.78
+[2023.11.30-06.26.49:076][318]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.30-06.26.49:078][318]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.30-06.32.40:816][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-06.32.40:854][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.30-06.32.40:894][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.30-06.32.40:934][614]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2023.11.30-06.32.40:935][614]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/Level19009AA0748DC096F0C6E25B8A537DEDE.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/Level1.umap'
+[2023.11.30-06.32.40:974][614]LogFileHelpers: Saving map 'Level1' took 0.121
+[2023.11.30-06.32.40:980][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 3.13 sec)
+[2023.11.30-06.32.40:988][614]AssetCheck: New page: Asset Save: Level1
+[2023.11.30-06.32.40:988][614]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Level1.Level1
+[2023.11.30-06.32.42:339][725]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/BGM/A_TowerRoom_BGM.A_TowerRoom_BGM
+[2023.11.30-06.32.43:507][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-06.32.43:581][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/BGM/A_TowerRoom_BGM" FILE="D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Audio/BGM/A_TowerRoom_BGM.uasset" SILENT=true
+[2023.11.30-06.32.43:764][839]LogSavePackage: Moving output files for package: /Game/Audio/BGM/A_TowerRoom_BGM
+[2023.11.30-06.32.43:764][839]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/A_TowerRoom_BGM8BDA212848652B097A3CA89CCDF5C71B.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Audio/BGM/A_TowerRoom_BGM.uasset'
+[2023.11.30-06.32.43:771][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 262 ms (total: 3.39 sec)
+[2023.11.30-06.32.43:777][839]AssetCheck: New page: Asset Save: A_TowerRoom_BGM
+[2023.11.30-06.32.43:777][839]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/BGM/A_TowerRoom_BGM.A_TowerRoom_BGM
