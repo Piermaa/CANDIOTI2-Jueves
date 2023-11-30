@@ -1654,3 +1654,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.30-00.09.36:460][304]LogPlayLevel: Display: Destroying online subsystem :Context_37
 [2023.11.30-00.09.40:154][621]LogSlate: Window 'Message Log' being destroyed
 [2023.11.30-00.09.40:169][621]LogSlate: Window 'Message Log' being destroyed
+[2023.11.30-00.13.27:612][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.11.30-00.13.31:760][168]LogSlate: Window 'Save Content' being destroyed
+[2023.11.30-00.13.34:730][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.11.30-00.13.34:734][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-00.13.34:805][416]LogSavePackage: Moving output files for package: /Game/Audio/SFX/Obstacles/A_RotatorDisc_SFX
+[2023.11.30-00.13.34:805][416]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/A_RotatorDisc_SFX818B38D74FF52F82EC64D6A92D362A95.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Audio/SFX/Obstacles/A_RotatorDisc_SFX.uasset'
+[2023.11.30-00.13.34:813][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.22 sec)
+[2023.11.30-00.13.34:826][416]AssetCheck: New page: Asset Save: A_RotatorDisc_SFX
+[2023.11.30-00.13.34:826][416]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/Obstacles/A_RotatorDisc_SFX.A_RotatorDisc_SFX
