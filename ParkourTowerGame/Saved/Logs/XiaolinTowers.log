@@ -6625,3 +6625,1232 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.30-10.31.46:359][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.11.30-10.31.46:381][726]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
 [2023.11.30-10.31.46:381][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.32.47:488][393]LogShaderCompilers: Display: ================================================
+[2023.11.30-10.32.47:488][393]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.30-10.32.47:488][393]LogShaderCompilers: Display: Total job queries 391, among them cache hits 100 (25.58%)
+[2023.11.30-10.32.47:488][393]LogShaderCompilers: Display: Tracking 291 distinct input hashes that result in 214 distinct outputs (73.54%)
+[2023.11.30-10.32.47:488][393]LogShaderCompilers: Display: RAM used: 2.12 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.06%
+[2023.11.30-10.32.47:488][393]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.30-10.32.47:488][393]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.30-10.32.47:488][393]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.11.30-10.32.47:488][393]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.30-10.32.47:488][393]LogShaderCompilers: Display: ================================================
+[2023.11.30-10.32.47:980][440]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2023.11.30-10.32.47:980][440]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.35.20:140][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.35.20:192][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.30-10.35.20:242][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.30-10.35.20:266][891]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2023.11.30-10.35.20:267][891]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/MainMenu3AE540C9411C1AAA7E54378E189AB2AB.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/MainMenu.umap'
+[2023.11.30-10.35.20:305][891]LogFileHelpers: Saving map 'MainMenu' took 0.114
+[2023.11.30-10.35.20:311][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 14.9 sec)
+[2023.11.30-10.35.20:319][891]AssetCheck: New page: Asset Save: MainMenu
+[2023.11.30-10.35.20:319][891]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MainMenu.MainMenu
+[2023.11.30-10.38.38:028][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.38.38:086][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.30-10.38.38:126][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.11.30-10.38.38:149][298]LogSavePackage: Moving output files for package: /Game/Maps/MainMenu
+[2023.11.30-10.38.38:150][298]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/MainMenu821C0D514283ECE66B75D88AF7306046.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/MainMenu.umap'
+[2023.11.30-10.38.38:189][298]LogFileHelpers: Saving map 'MainMenu' took 0.104
+[2023.11.30-10.38.38:194][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 15.1 sec)
+[2023.11.30-10.38.38:202][298]AssetCheck: New page: Asset Save: MainMenu
+[2023.11.30-10.38.38:202][298]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MainMenu.MainMenu
+[2023.11.30-10.38.45:191][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.11.30-10.38.45:260][ 98]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/EndingCinematic.EndingCinematic
+[2023.11.30-10.38.45:260][ 98]Cmd: MAP LOAD FILE="D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/EndingCinematic.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.30-10.38.45:260][ 98]LightingResults: New page: Lighting Build
+[2023.11.30-10.38.45:260][ 98]LoadErrors: New page: Loading map: EndingCinematic.umap
+[2023.11.30-10.38.45:347][ 98]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.38.45:347][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.38.45:423][ 98]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.38.45:423][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.38.45:424][ 98]MapCheck: New page: Map Check
+[2023.11.30-10.38.45:424][ 98]LightingResults: New page: Lighting Build
+[2023.11.30-10.38.45:453][ 98]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.38.45:459][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.30-10.38.45:468][ 98]LogWorld: UWorld::CleanupWorld for EndingCinematic, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.38.45:469][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.38.45:469][ 98]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.38.45:488][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.38.45:520][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.30-10.38.45:553][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.30-10.38.45:566][ 98]LogAudio: Display: Audio Device (ID: 1) registered with world 'EndingCinematic'.
+[2023.11.30-10.38.45:566][ 98]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.38.45:566][ 98]LogAIModule: Creating AISystem for world EndingCinematic
+[2023.11.30-10.38.45:568][ 98]LogShaderCompilers: Display: ================================================
+[2023.11.30-10.38.45:568][ 98]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.30-10.38.45:568][ 98]LogShaderCompilers: Display: Total job queries 405, among them cache hits 104 (25.68%)
+[2023.11.30-10.38.45:568][ 98]LogShaderCompilers: Display: Tracking 301 distinct input hashes that result in 215 distinct outputs (71.43%)
+[2023.11.30-10.38.45:568][ 98]LogShaderCompilers: Display: RAM used: 2.17 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.07%
+[2023.11.30-10.38.45:568][ 98]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.30-10.38.45:568][ 98]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.30-10.38.45:568][ 98]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.11.30-10.38.45:568][ 98]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.30-10.38.45:568][ 98]LogShaderCompilers: Display: ================================================
+[2023.11.30-10.38.45:645][ 98]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.30-10.38.45:680][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.30-10.38.45:717][ 98]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.30-10.38.45:717][ 98]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2023.11.30-10.38.45:717][ 98]LogFileHelpers: Loading map 'EndingCinematic' took 0.458
+[2023.11.30-10.38.47:049][192]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.30-10.38.47:070][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.30-10.38.47:070][192]PIE: New page: PIE session: EndingCinematic (Nov 30, 2023, 4:38:47 AM)
+[2023.11.30-10.38.47:070][192]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.38.47:075][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004877s)
+[2023.11.30-10.38.47:075][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EndingCinematic.EndingCinematic to /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic (0.004907s)
+[2023.11.30-10.38.47:075][192]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.38.47:076][192]LogAIModule: Creating AISystem for world EndingCinematic
+[2023.11.30-10.38.47:076][192]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2023.11.30-10.38.47:165][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.11.30-10.38.47:169][192]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.11.30-10.38.47:169][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.30-10.38.47:169][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.30-10.38.47:169][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.30-10.38.47:169][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.30-10.38.47:169][192]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.30-10.38.47:169][192]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.30-10.38.47:169][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.30-10.38.47:169][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.30-10.38.47:169][192]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.30-10.38.47:169][192]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.30-10.38.47:169][192]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.30-10.38.47:172][192]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.30-10.38.47:320][192]LogAudioMixer: Display: Using Audio Hardware Device Analog (9+10) (RME Fireface UFX)
+[2023.11.30-10.38.47:320][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.30-10.38.47:320][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.30-10.38.47:320][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.30-10.38.47:321][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.11.30-10.38.47:321][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2023.11.30-10.38.47:322][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.11.30-10.38.47:322][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.11.30-10.38.47:323][192]LogInit: FAudioDevice initialized.
+[2023.11.30-10.38.47:323][192]LogAudio: Display: Audio Device (ID: 41) registered with world 'EndingCinematic'.
+[2023.11.30-10.38.47:326][192]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.38.47:328][192]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic up for play (max tick rate 0) at 2023.11.30-07.38.47
+[2023.11.30-10.38.47:328][192]LogWorld: Bringing up level for play took: 0.002607
+[2023.11.30-10.38.47:331][192]LogOnline: OSS: Created online subsystem instance for: :Context_112
+[2023.11.30-10.38.47:331][192]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.38.47:331][192]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.38.47:331][192]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.38.47:332][192]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.38.47:332][192]PIE: Server logged in
+[2023.11.30-10.38.47:333][192]PIE: Play in editor total start time 0.264 seconds.
+[2023.11.30-10.38.47:336][192]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2023.11.30-10.38.52:335][762]LogLevelSequence: Starting new camera cut: 'None'
+[2023.11.30-10.38.52:337][762]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.30-10.38.52:343][763]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.38.52:343][763]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.38.52:343][763]LogNet: Browse: /Game/Maps/Win
+[2023.11.30-10.38.52:343][763]LogLoad: LoadMap: /Game/Maps/Win
+[2023.11.30-10.38.52:344][763]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.38.52:344][763]LogWorld: UWorld::CleanupWorld for EndingCinematic, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.38.52:344][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.38.52:401][763]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.38.52:447][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.11.30-10.38.52:475][763]LogAudio: Display: Audio Device (ID: 41) registered with world 'Win'.
+[2023.11.30-10.38.52:475][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.38.52:475][763]LogAIModule: Creating AISystem for world Win
+[2023.11.30-10.38.52:475][763]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2023.11.30-10.38.52:475][763]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.38.52:482][763]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Win.Win up for play (max tick rate 0) at 2023.11.30-07.38.52
+[2023.11.30-10.38.52:482][763]LogWorld: Bringing up level for play took: 0.006833
+[2023.11.30-10.38.52:483][763]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.38.52:483][763]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.38.52:483][763]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.38.52:483][763]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.38.52:484][763]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.30-10.38.52:484][763]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.30-10.38.52:484][763]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.38.52:484][763]LogLoad: Took 0.140419 seconds to LoadMap(/Game/Maps/Win)
+[2023.11.30-10.38.52:486][763]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Book_Magic_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.39.02:872][952]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/EndingCinematic.EndingCinematic:PersistentLevel.EndingCinematic
+[2023.11.30-10.39.02:873][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.39.30:757][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.39.30:757][ 74]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Win
+[2023.11.30-10.39.30:757][ 74]LogWorld: UWorld::CleanupWorld for Win, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.39.30:758][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.39.30:761][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.30-10.39.30:768][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.39.30:806][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.39.30:807][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.11.30-10.39.30:808][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.11.30-10.39.30:816][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.30-10.39.30:850][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2023.11.30-10.39.46:703][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.39.46:774][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.30-10.39.46:800][956]LogSavePackage: Moving output files for package: /Game/Maps/EndingCinematic
+[2023.11.30-10.39.46:802][956]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/EndingCinematic63C7A2844ADEEA22F4C757A1F6481BAF.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/EndingCinematic.umap'
+[2023.11.30-10.39.46:839][956]LogFileHelpers: Saving map 'EndingCinematic' took 0.106
+[2023.11.30-10.39.46:845][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 15.2 sec)
+[2023.11.30-10.39.46:853][956]AssetCheck: New page: Asset Save: EndingCinematic
+[2023.11.30-10.39.46:853][956]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/EndingCinematic.EndingCinematic
+[2023.11.30-10.39.56:710][975]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Victory_Defeat/WBP_Victory.WBP_Victory
+[2023.11.30-10.39.56:710][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.39.56:725][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.39.57:262][975]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.11.30-10.39.57:262][975]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.11.30-10.40.29:850][730]LogSlate: Took 0.028745 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.30-10.41.41:597][652]BlueprintLog: New page: Compile WBP_Victory
+[2023.11.30-10.41.41:672][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.30-10.41.42:213][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.41.42:264][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Victory_Defeat/WBP_Victory" FILE="D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/UI/Victory_Defeat/WBP_Victory.uasset" SILENT=true
+[2023.11.30-10.41.42:283][701]LogSavePackage: Moving output files for package: /Game/UI/Victory_Defeat/WBP_Victory
+[2023.11.30-10.41.42:284][701]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/WBP_Victory45B6C01F4853CA0B2FA7DC88A024439F.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/UI/Victory_Defeat/WBP_Victory.uasset'
+[2023.11.30-10.41.42:291][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 15.3 sec)
+[2023.11.30-10.41.42:298][701]AssetCheck: New page: Asset Save: WBP_Victory
+[2023.11.30-10.41.42:298][701]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Victory_Defeat/WBP_Victory.WBP_Victory
+[2023.11.30-10.43.16:419][451]BlueprintLog: New page: Compile EndingCinematic
+[2023.11.30-10.43.16:422][451]LogBlueprint: Error: [AssetLog] D:\0UnrealProjects\JuevesCTP2\CANDIOTI2-Jueves\ParkourTowerGame\Content\Maps\EndingCinematic.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WBP_Victory  to imply a specific type.
+[2023.11.30-10.43.16:422][451]LogBlueprint: Error: [AssetLog] D:\0UnrealProjects\JuevesCTP2\CANDIOTI2-Jueves\ParkourTowerGame\Content\Maps\EndingCinematic.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2023.11.30-10.43.16:495][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.30-10.43.17:359][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.43.17:458][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.30-10.43.17:486][536]LogSavePackage: Moving output files for package: /Game/Maps/EndingCinematic
+[2023.11.30-10.43.17:487][536]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/EndingCinematic065FB5CB4BEB46DD2214DB8124B436CF.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/EndingCinematic.umap'
+[2023.11.30-10.43.17:526][536]LogFileHelpers: Saving map 'EndingCinematic' took 0.117
+[2023.11.30-10.43.17:532][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 15.5 sec)
+[2023.11.30-10.43.17:541][536]AssetCheck: New page: Asset Save: EndingCinematic
+[2023.11.30-10.43.17:541][536]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/EndingCinematic.EndingCinematic
+[2023.11.30-10.44.14:860][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.11.30-10.44.14:926][737]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Win.Win
+[2023.11.30-10.44.14:926][737]Cmd: MAP LOAD FILE="D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/Win.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.30-10.44.14:927][737]LightingResults: New page: Lighting Build
+[2023.11.30-10.44.14:927][737]LoadErrors: New page: Loading map: Win.umap
+[2023.11.30-10.44.14:994][737]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.44.14:994][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.44.15:064][737]LogWorld: UWorld::CleanupWorld for EndingCinematic, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.44.15:064][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.44.15:065][737]MapCheck: New page: Map Check
+[2023.11.30-10.44.15:065][737]LightingResults: New page: Lighting Build
+[2023.11.30-10.44.15:104][737]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.44.15:109][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.30-10.44.15:116][737]LogWorld: UWorld::CleanupWorld for Win, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.44.15:116][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.44.15:158][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.30-10.44.15:199][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.30-10.44.15:209][737]LogAudio: Display: Audio Device (ID: 1) registered with world 'Win'.
+[2023.11.30-10.44.15:209][737]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.44.15:210][737]LogAIModule: Creating AISystem for world Win
+[2023.11.30-10.44.15:243][737]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.30-10.44.15:286][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.11.30-10.44.15:322][737]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.30-10.44.15:324][737]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.608ms to complete.
+[2023.11.30-10.44.15:324][737]LogFileHelpers: Loading map 'Win' took 0.398
+[2023.11.30-10.44.18:900][ 92]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Win.Win:PersistentLevel.Win
+[2023.11.30-10.44.18:900][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.45.02:265][173]BlueprintLog: New page: Compile WBP_Victory
+[2023.11.30-10.45.02:332][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.30-10.45.16:839][823]LogBlueprint: Error: [AssetLog] D:\0UnrealProjects\JuevesCTP2\CANDIOTI2-Jueves\ParkourTowerGame\Content\Maps\EndingCinematic.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WBP_Victory  to imply a specific type.
+[2023.11.30-10.45.16:840][823]LogBlueprint: Error: [AssetLog] D:\0UnrealProjects\JuevesCTP2\CANDIOTI2-Jueves\ParkourTowerGame\Content\Maps\EndingCinematic.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2023.11.30-10.45.18:555][823]LogSlate: Window 'Delete Variable' being destroyed
+[2023.11.30-10.45.24:364][491]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.45.24:364][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.45.28:150][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.11.30-10.45.29:750][884]LogSlate: Window 'Save Content' being destroyed
+[2023.11.30-10.45.29:762][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.45.29:811][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Victory_Defeat/WBP_Victory" FILE="D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/UI/Victory_Defeat/WBP_Victory.uasset" SILENT=true
+[2023.11.30-10.45.29:831][884]LogSavePackage: Moving output files for package: /Game/UI/Victory_Defeat/WBP_Victory
+[2023.11.30-10.45.29:833][884]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/WBP_VictoryE530D7D94CBB3749F81F388FE42D0F17.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/UI/Victory_Defeat/WBP_Victory.uasset'
+[2023.11.30-10.45.29:843][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 15.5 sec)
+[2023.11.30-10.45.29:843][884]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/EndingCinematic.EndingCinematic
+[2023.11.30-10.45.29:843][884]Cmd: MAP LOAD FILE="D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/EndingCinematic.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.30-10.45.29:843][884]LightingResults: New page: Lighting Build
+[2023.11.30-10.45.29:843][884]LoadErrors: New page: Loading map: EndingCinematic.umap
+[2023.11.30-10.45.29:887][884]LogWorld: UWorld::CleanupWorld for Win, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.45.29:888][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.45.29:889][884]MapCheck: New page: Map Check
+[2023.11.30-10.45.29:889][884]LightingResults: New page: Lighting Build
+[2023.11.30-10.45.29:932][884]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.45.29:935][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.30-10.45.29:938][884]LogWorld: UWorld::CleanupWorld for EndingCinematic, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.45.29:938][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.45.29:981][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.30-10.45.30:022][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.30-10.45.30:031][884]LogBlueprint: Warning: [AssetLog] D:\0UnrealProjects\JuevesCTP2\CANDIOTI2-Jueves\ParkourTowerGame\Content\Maps\EndingCinematic.umap: [Compiler] Could not find a variable named "VictoryMusic" in 'WBP_Victory_C'.
+Make sure 'WBP_Victory_C' has been compiled for  Set VictoryMusic
+[2023.11.30-10.45.30:031][884]LogBlueprint: Error: [AssetLog] D:\0UnrealProjects\JuevesCTP2\CANDIOTI2-Jueves\ParkourTowerGame\Content\Maps\EndingCinematic.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WBP_Victory  to imply a specific type.
+[2023.11.30-10.45.30:032][884]LogBlueprint: Error: [AssetLog] D:\0UnrealProjects\JuevesCTP2\CANDIOTI2-Jueves\ParkourTowerGame\Content\Maps\EndingCinematic.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2023.11.30-10.45.30:038][884]LogAudio: Display: Audio Device (ID: 1) registered with world 'EndingCinematic'.
+[2023.11.30-10.45.30:038][884]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.45.30:039][884]LogAIModule: Creating AISystem for world EndingCinematic
+[2023.11.30-10.45.30:097][884]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.30-10.45.30:141][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.30-10.45.30:178][884]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.30-10.45.30:178][884]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2023.11.30-10.45.30:178][884]LogFileHelpers: Loading map 'EndingCinematic' took 0.335
+[2023.11.30-10.45.30:219][884]AssetCheck: New page: Asset Save: WBP_Victory
+[2023.11.30-10.45.30:220][884]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Victory_Defeat/WBP_Victory.WBP_Victory
+[2023.11.30-10.45.41:237][ 98]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameInstance.BP_GameInstance
+[2023.11.30-10.45.41:238][ 98]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.46.02:510][445]BlueprintLog: New page: Compile BP_GameInstance
+[2023.11.30-10.46.02:591][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.11.30-10.46.05:814][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.46.05:855][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameInstance" FILE="D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/BP_GameInstance.uasset" SILENT=true
+[2023.11.30-10.46.05:870][812]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameInstance
+[2023.11.30-10.46.05:872][812]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/BP_GameInstance4AD20F22480412D191206EB28D107D8A.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Blueprints/BP_GameInstance.uasset'
+[2023.11.30-10.46.05:878][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 15.6 sec)
+[2023.11.30-10.46.05:885][812]AssetCheck: New page: Asset Save: BP_GameInstance
+[2023.11.30-10.46.05:885][812]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_GameInstance.BP_GameInstance
+[2023.11.30-10.46.17:370][ 70]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/EndingCinematic.EndingCinematic:PersistentLevel.EndingCinematic
+[2023.11.30-10.46.17:371][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.46.37:331][166]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/MainMenu/WBP_ConifScreen.WBP_ConifScreen
+[2023.11.30-10.46.37:331][166]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.46.37:343][166]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.46.37:911][166]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.11.30-10.46.37:911][166]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.11.30-10.46.50:572][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.46.50:700][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.30-10.46.50:727][611]LogSavePackage: Moving output files for package: /Game/Maps/EndingCinematic
+[2023.11.30-10.46.50:729][611]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/EndingCinematicD36AFA1A4E428460C91FE3BB7F5E290C.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/EndingCinematic.umap'
+[2023.11.30-10.46.50:767][611]LogFileHelpers: Saving map 'EndingCinematic' took 0.147
+[2023.11.30-10.46.50:773][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 15.8 sec)
+[2023.11.30-10.46.50:781][611]AssetCheck: New page: Asset Save: EndingCinematic
+[2023.11.30-10.46.50:781][611]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/EndingCinematic.EndingCinematic
+[2023.11.30-10.48.29:884][ 72]BlueprintLog: New page: Compile EndingCinematic
+[2023.11.30-10.48.29:975][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.30-10.48.32:628][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.48.32:744][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.11.30-10.48.32:773][362]LogSavePackage: Moving output files for package: /Game/Maps/EndingCinematic
+[2023.11.30-10.48.32:774][362]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/EndingCinematic9057837743B4F0C5D9FCB6BA3BF217F5.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/EndingCinematic.umap'
+[2023.11.30-10.48.32:813][362]LogFileHelpers: Saving map 'EndingCinematic' took 0.130
+[2023.11.30-10.48.32:819][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 16.0 sec)
+[2023.11.30-10.48.32:826][362]AssetCheck: New page: Asset Save: EndingCinematic
+[2023.11.30-10.48.32:826][362]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/EndingCinematic.EndingCinematic
+[2023.11.30-10.49.27:383][629]LogEditorTransaction: Undo Move Node
+[2023.11.30-10.49.34:291][393]BlueprintLog: New page: Compile WBP_Victory
+[2023.11.30-10.49.34:379][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.30-10.49.35:006][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.49.35:066][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Victory_Defeat/WBP_Victory" FILE="D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/UI/Victory_Defeat/WBP_Victory.uasset" SILENT=true
+[2023.11.30-10.49.35:085][444]LogSavePackage: Moving output files for package: /Game/UI/Victory_Defeat/WBP_Victory
+[2023.11.30-10.49.35:086][444]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/WBP_VictoryFCFCF3AB4884274465ADA5A96A334BC7.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/UI/Victory_Defeat/WBP_Victory.uasset'
+[2023.11.30-10.49.35:094][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 16.1 sec)
+[2023.11.30-10.49.35:101][444]AssetCheck: New page: Asset Save: WBP_Victory
+[2023.11.30-10.49.35:101][444]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Victory_Defeat/WBP_Victory.WBP_Victory
+[2023.11.30-10.49.36:463][589]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.30-10.49.36:484][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.30-10.49.36:484][589]PIE: New page: PIE session: EndingCinematic (Nov 30, 2023, 4:49:36 AM)
+[2023.11.30-10.49.36:484][589]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.49.36:489][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005274s)
+[2023.11.30-10.49.36:489][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EndingCinematic.EndingCinematic to /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic (0.005303s)
+[2023.11.30-10.49.36:489][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.49.36:490][589]LogAIModule: Creating AISystem for world EndingCinematic
+[2023.11.30-10.49.36:490][589]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2023.11.30-10.49.36:554][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.30-10.49.36:556][589]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.11.30-10.49.36:556][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.30-10.49.36:556][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.30-10.49.36:556][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.30-10.49.36:556][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.30-10.49.36:556][589]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.30-10.49.36:556][589]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.30-10.49.36:556][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.30-10.49.36:556][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.30-10.49.36:557][589]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.30-10.49.36:557][589]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.30-10.49.36:557][589]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.30-10.49.36:560][589]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.30-10.49.36:706][589]LogAudioMixer: Display: Using Audio Hardware Device Analog (9+10) (RME Fireface UFX)
+[2023.11.30-10.49.36:706][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.30-10.49.36:706][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.30-10.49.36:706][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.30-10.49.36:707][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2023.11.30-10.49.36:707][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2023.11.30-10.49.36:709][589]LogInit: FAudioDevice initialized.
+[2023.11.30-10.49.36:709][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2023.11.30-10.49.36:709][589]LogAudio: Display: Audio Device (ID: 42) registered with world 'EndingCinematic'.
+[2023.11.30-10.49.36:709][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2023.11.30-10.49.36:712][589]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.49.36:714][589]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic up for play (max tick rate 0) at 2023.11.30-07.49.36
+[2023.11.30-10.49.36:715][589]LogWorld: Bringing up level for play took: 0.002292
+[2023.11.30-10.49.36:717][589]LogOnline: OSS: Created online subsystem instance for: :Context_121
+[2023.11.30-10.49.36:717][589]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.49.36:717][589]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.49.36:717][589]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.49.36:718][589]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.49.36:718][589]PIE: Server logged in
+[2023.11.30-10.49.36:719][589]PIE: Play in editor total start time 0.236 seconds.
+[2023.11.30-10.49.36:722][589]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2023.11.30-10.49.39:932][968]LogLevelSequence: Starting new camera cut: 'None'
+[2023.11.30-10.49.39:933][968]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.30-10.49.39:940][969]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.49.39:940][969]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.49.39:940][969]LogNet: Browse: /Game/Maps/Win
+[2023.11.30-10.49.39:940][969]LogLoad: LoadMap: /Game/Maps/Win
+[2023.11.30-10.49.39:940][969]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.49.39:940][969]LogWorld: UWorld::CleanupWorld for EndingCinematic, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.49.39:941][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.49.40:037][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.49.40:041][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.30-10.49.40:056][969]LogAudio: Display: Audio Device (ID: 42) registered with world 'Win'.
+[2023.11.30-10.49.40:056][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.49.40:056][969]LogAIModule: Creating AISystem for world Win
+[2023.11.30-10.49.40:057][969]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2023.11.30-10.49.40:057][969]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.49.40:064][969]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Win.Win up for play (max tick rate 0) at 2023.11.30-07.49.40
+[2023.11.30-10.49.40:065][969]LogWorld: Bringing up level for play took: 0.007749
+[2023.11.30-10.49.40:065][969]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.49.40:065][969]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.49.40:065][969]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.49.40:065][969]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.49.40:066][969]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.30-10.49.40:066][969]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.30-10.49.40:066][969]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.49.40:066][969]LogLoad: Took 0.126311 seconds to LoadMap(/Game/Maps/Win)
+[2023.11.30-10.49.40:068][969]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Book_Magic_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.49.41:249][108]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.49.41:249][108]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.49.41:249][108]LogNet: Browse: /Game/Maps/MainMenu
+[2023.11.30-10.49.41:249][108]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2023.11.30-10.49.41:249][108]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Win
+[2023.11.30-10.49.41:249][108]LogWorld: UWorld::CleanupWorld for Win, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.49.41:250][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.49.41:338][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.49.41:341][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.30-10.49.41:359][108]LogAudio: Display: Audio Device (ID: 42) registered with world 'MainMenu'.
+[2023.11.30-10.49.41:359][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.49.41:359][108]LogAIModule: Creating AISystem for world MainMenu
+[2023.11.30-10.49.41:359][108]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2023.11.30-10.49.41:360][108]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.49.41:369][108]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.11.30-07.49.41
+[2023.11.30-10.49.41:369][108]LogWorld: Bringing up level for play took: 0.009532
+[2023.11.30-10.49.41:369][108]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.49.41:370][108]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.49.41:370][108]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.49.41:370][108]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.49.41:372][108]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.49.41:372][108]LogLoad: Took 0.123249 seconds to LoadMap(/Game/Maps/MainMenu)
+[2023.11.30-10.49.41:374][108]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Main_Menu_BGM_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.49.41:374][108]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Lava_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.49.46:266][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.49.46:267][688]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.11.30-10.49.46:267][688]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.49.46:267][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.49.46:270][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.30-10.49.46:277][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.49.46:339][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.49.46:339][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.11.30-10.49.46:341][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.11.30-10.49.46:344][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.49.46:347][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.30-10.49.46:392][689]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2023.11.30-10.49.52:067][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.49.52:160][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.30-10.49.52:190][339]LogSavePackage: Moving output files for package: /Game/Maps/EndingCinematic
+[2023.11.30-10.49.52:191][339]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/EndingCinematicFFDF071C4B790F0F9084499673D447F8.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/EndingCinematic.umap'
+[2023.11.30-10.49.52:230][339]LogFileHelpers: Saving map 'EndingCinematic' took 0.132
+[2023.11.30-10.49.52:236][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 16.3 sec)
+[2023.11.30-10.49.52:243][339]AssetCheck: New page: Asset Save: EndingCinematic
+[2023.11.30-10.49.52:243][339]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/EndingCinematic.EndingCinematic
+[2023.11.30-10.49.53:231][448]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.30-10.49.53:251][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.30-10.49.53:251][448]PIE: New page: PIE session: EndingCinematic (Nov 30, 2023, 4:49:53 AM)
+[2023.11.30-10.49.53:251][448]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.49.53:257][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005268s)
+[2023.11.30-10.49.53:257][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EndingCinematic.EndingCinematic to /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic (0.005300s)
+[2023.11.30-10.49.53:257][448]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.49.53:257][448]LogAIModule: Creating AISystem for world EndingCinematic
+[2023.11.30-10.49.53:257][448]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2023.11.30-10.49.53:320][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.30-10.49.53:321][448]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.11.30-10.49.53:321][448]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.30-10.49.53:321][448]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.30-10.49.53:321][448]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.30-10.49.53:321][448]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.30-10.49.53:321][448]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.30-10.49.53:321][448]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.30-10.49.53:321][448]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.30-10.49.53:321][448]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.30-10.49.53:322][448]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.30-10.49.53:322][448]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.30-10.49.53:322][448]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.30-10.49.53:324][448]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.30-10.49.53:471][448]LogAudioMixer: Display: Using Audio Hardware Device Analog (9+10) (RME Fireface UFX)
+[2023.11.30-10.49.53:471][448]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.30-10.49.53:471][448]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.30-10.49.53:471][448]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.30-10.49.53:472][448]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2023.11.30-10.49.53:472][448]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2023.11.30-10.49.53:474][448]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2023.11.30-10.49.53:474][448]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2023.11.30-10.49.53:474][448]LogInit: FAudioDevice initialized.
+[2023.11.30-10.49.53:474][448]LogAudio: Display: Audio Device (ID: 43) registered with world 'EndingCinematic'.
+[2023.11.30-10.49.53:478][448]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.49.53:479][448]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic up for play (max tick rate 0) at 2023.11.30-07.49.53
+[2023.11.30-10.49.53:480][448]LogWorld: Bringing up level for play took: 0.002178
+[2023.11.30-10.49.53:482][448]LogOnline: OSS: Created online subsystem instance for: :Context_122
+[2023.11.30-10.49.53:482][448]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.49.53:483][448]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.49.53:483][448]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.49.53:484][448]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.49.53:484][448]PIE: Server logged in
+[2023.11.30-10.49.53:484][448]PIE: Play in editor total start time 0.233 seconds.
+[2023.11.30-10.49.53:487][448]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2023.11.30-10.49.56:330][782]Cmd: LevelEditor.ToggleImmersive
+[2023.11.30-10.49.56:345][782]LogViewport: Scene viewport resized to 1333x878, mode Windowed.
+[2023.11.30-10.49.56:366][783]LogViewport: Scene viewport resized to 1577x943, mode Windowed.
+[2023.11.30-10.49.56:390][784]LogViewport: Scene viewport resized to 1751x988, mode Windowed.
+[2023.11.30-10.49.56:420][785]LogViewport: Scene viewport resized to 1874x1021, mode Windowed.
+[2023.11.30-10.49.56:452][786]LogViewport: Scene viewport resized to 1918x1032, mode Windowed.
+[2023.11.30-10.49.56:481][787]LogViewport: Scene viewport resized to 1924x1034, mode Windowed.
+[2023.11.30-10.49.56:704][811]LogLevelSequence: Starting new camera cut: 'None'
+[2023.11.30-10.49.56:705][811]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.30-10.49.56:713][812]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.49.56:713][812]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.49.56:713][812]LogNet: Browse: /Game/Maps/Win
+[2023.11.30-10.49.56:713][812]LogLoad: LoadMap: /Game/Maps/Win
+[2023.11.30-10.49.56:713][812]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.49.56:713][812]LogWorld: UWorld::CleanupWorld for EndingCinematic, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.49.56:714][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.49.56:797][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.49.56:801][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.11.30-10.49.56:813][812]LogAudio: Display: Audio Device (ID: 43) registered with world 'Win'.
+[2023.11.30-10.49.56:813][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.49.56:813][812]LogAIModule: Creating AISystem for world Win
+[2023.11.30-10.49.56:814][812]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2023.11.30-10.49.56:814][812]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.49.56:820][812]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Win.Win up for play (max tick rate 0) at 2023.11.30-07.49.56
+[2023.11.30-10.49.56:821][812]LogWorld: Bringing up level for play took: 0.006894
+[2023.11.30-10.49.56:821][812]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.49.56:821][812]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.49.56:821][812]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.49.56:821][812]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.49.56:822][812]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.30-10.49.56:822][812]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.30-10.49.56:822][812]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.49.56:822][812]LogLoad: Took 0.109701 seconds to LoadMap(/Game/Maps/Win)
+[2023.11.30-10.49.56:824][812]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Book_Magic_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.49.59:272][ 56]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.49.59:272][ 56]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.49.59:272][ 56]LogNet: Browse: /Game/Maps/MainMenu
+[2023.11.30-10.49.59:272][ 56]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2023.11.30-10.49.59:272][ 56]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Win
+[2023.11.30-10.49.59:273][ 56]LogWorld: UWorld::CleanupWorld for Win, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.49.59:273][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.49.59:358][ 56]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.49.59:360][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.30-10.49.59:376][ 56]LogAudio: Display: Audio Device (ID: 43) registered with world 'MainMenu'.
+[2023.11.30-10.49.59:377][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.49.59:377][ 56]LogAIModule: Creating AISystem for world MainMenu
+[2023.11.30-10.49.59:377][ 56]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2023.11.30-10.49.59:377][ 56]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.49.59:387][ 56]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.11.30-07.49.59
+[2023.11.30-10.49.59:387][ 56]LogWorld: Bringing up level for play took: 0.009506
+[2023.11.30-10.49.59:387][ 56]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.49.59:387][ 56]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.49.59:387][ 56]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.49.59:387][ 56]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.49.59:390][ 56]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.49.59:390][ 56]LogLoad: Took 0.117393 seconds to LoadMap(/Game/Maps/MainMenu)
+[2023.11.30-10.49.59:392][ 56]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Main_Menu_BGM_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.49.59:392][ 56]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Lava_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.50.00:686][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.50.00:686][200]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.11.30-10.50.00:687][200]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.50.00:687][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.50.00:694][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.30-10.50.00:702][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.50.00:764][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.50.00:764][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.11.30-10.50.00:766][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.11.30-10.50.00:773][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.30-10.50.00:803][201]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2023.11.30-10.50.01:978][326]LogViewport: Scene viewport resized to 1612x952, mode Windowed.
+[2023.11.30-10.50.01:998][327]LogViewport: Scene viewport resized to 1363x886, mode Windowed.
+[2023.11.30-10.50.02:054][328]LogViewport: Scene viewport resized to 1152x831, mode Windowed.
+[2023.11.30-10.50.02:074][329]LogViewport: Scene viewport resized to 1120x822, mode Windowed.
+[2023.11.30-10.50.02:121][330]LogViewport: Scene viewport resized to 1096x816, mode Windowed.
+[2023.11.30-10.50.03:198][445]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.30-10.50.03:219][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.30-10.50.03:219][445]PIE: New page: PIE session: EndingCinematic (Nov 30, 2023, 4:50:03 AM)
+[2023.11.30-10.50.03:219][445]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.50.03:224][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005217s)
+[2023.11.30-10.50.03:224][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EndingCinematic.EndingCinematic to /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic (0.005247s)
+[2023.11.30-10.50.03:224][445]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.50.03:225][445]LogAIModule: Creating AISystem for world EndingCinematic
+[2023.11.30-10.50.03:225][445]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2023.11.30-10.50.03:287][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.30-10.50.03:290][445]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.11.30-10.50.03:290][445]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.30-10.50.03:290][445]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.30-10.50.03:290][445]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.30-10.50.03:290][445]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.30-10.50.03:290][445]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.30-10.50.03:290][445]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.30-10.50.03:290][445]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.30-10.50.03:290][445]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.30-10.50.03:291][445]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.30-10.50.03:291][445]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.30-10.50.03:291][445]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.30-10.50.03:293][445]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.30-10.50.03:437][445]LogAudioMixer: Display: Using Audio Hardware Device Analog (9+10) (RME Fireface UFX)
+[2023.11.30-10.50.03:437][445]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.30-10.50.03:437][445]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.30-10.50.03:437][445]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.30-10.50.03:438][445]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2023.11.30-10.50.03:438][445]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2023.11.30-10.50.03:439][445]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2023.11.30-10.50.03:439][445]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2023.11.30-10.50.03:439][445]LogInit: FAudioDevice initialized.
+[2023.11.30-10.50.03:439][445]LogAudio: Display: Audio Device (ID: 44) registered with world 'EndingCinematic'.
+[2023.11.30-10.50.03:442][445]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.50.03:444][445]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic up for play (max tick rate 0) at 2023.11.30-07.50.03
+[2023.11.30-10.50.03:445][445]LogWorld: Bringing up level for play took: 0.002170
+[2023.11.30-10.50.03:447][445]LogOnline: OSS: Created online subsystem instance for: :Context_123
+[2023.11.30-10.50.03:447][445]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.03:447][445]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.03:447][445]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.03:448][445]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.03:448][445]PIE: Server logged in
+[2023.11.30-10.50.03:449][445]PIE: Play in editor total start time 0.231 seconds.
+[2023.11.30-10.50.03:452][445]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2023.11.30-10.50.04:690][590]Cmd: LevelEditor.ToggleImmersive
+[2023.11.30-10.50.04:705][590]LogViewport: Scene viewport resized to 1330x878, mode Windowed.
+[2023.11.30-10.50.04:726][591]LogViewport: Scene viewport resized to 1571x941, mode Windowed.
+[2023.11.30-10.50.04:749][592]LogViewport: Scene viewport resized to 1744x986, mode Windowed.
+[2023.11.30-10.50.04:778][593]LogViewport: Scene viewport resized to 1866x1018, mode Windowed.
+[2023.11.30-10.50.04:807][594]LogViewport: Scene viewport resized to 1915x1031, mode Windowed.
+[2023.11.30-10.50.04:837][595]LogViewport: Scene viewport resized to 1924x1034, mode Windowed.
+[2023.11.30-10.50.06:674][798]LogLevelSequence: Starting new camera cut: 'None'
+[2023.11.30-10.50.06:675][798]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.30-10.50.06:682][799]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.50.06:682][799]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.50.06:682][799]LogNet: Browse: /Game/Maps/Win
+[2023.11.30-10.50.06:682][799]LogLoad: LoadMap: /Game/Maps/Win
+[2023.11.30-10.50.06:682][799]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.50.06:683][799]LogWorld: UWorld::CleanupWorld for EndingCinematic, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.50.06:683][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.50.06:767][799]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.50.06:770][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.30-10.50.06:783][799]LogAudio: Display: Audio Device (ID: 44) registered with world 'Win'.
+[2023.11.30-10.50.06:783][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.50.06:783][799]LogAIModule: Creating AISystem for world Win
+[2023.11.30-10.50.06:784][799]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2023.11.30-10.50.06:784][799]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.50.06:790][799]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Win.Win up for play (max tick rate 0) at 2023.11.30-07.50.06
+[2023.11.30-10.50.06:791][799]LogWorld: Bringing up level for play took: 0.006944
+[2023.11.30-10.50.06:791][799]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.50.06:791][799]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.06:791][799]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.06:791][799]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.06:792][799]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.30-10.50.06:792][799]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.30-10.50.06:792][799]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.06:792][799]LogLoad: Took 0.109800 seconds to LoadMap(/Game/Maps/Win)
+[2023.11.30-10.50.06:794][799]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Book_Magic_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.50.07:687][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.50.07:687][885]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Win
+[2023.11.30-10.50.07:687][885]LogWorld: UWorld::CleanupWorld for Win, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.50.07:688][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.50.07:695][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.30-10.50.07:703][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.50.07:763][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.50.07:764][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.11.30-10.50.07:766][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.11.30-10.50.07:773][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.30-10.50.07:805][886]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2023.11.30-10.50.09:338][ 38]LogViewport: Scene viewport resized to 1506x924, mode Windowed.
+[2023.11.30-10.50.09:360][ 39]LogViewport: Scene viewport resized to 1288x867, mode Windowed.
+[2023.11.30-10.50.09:421][ 40]LogViewport: Scene viewport resized to 1120x822, mode Windowed.
+[2023.11.30-10.50.09:458][ 41]LogViewport: Scene viewport resized to 1097x816, mode Windowed.
+[2023.11.30-10.50.09:483][ 42]LogViewport: Scene viewport resized to 1096x816, mode Windowed.
+[2023.11.30-10.50.10:606][160]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.30-10.50.10:626][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.30-10.50.10:626][160]PIE: New page: PIE session: EndingCinematic (Nov 30, 2023, 4:50:10 AM)
+[2023.11.30-10.50.10:647][160]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.50.10:652][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005271s)
+[2023.11.30-10.50.10:652][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EndingCinematic.EndingCinematic to /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic (0.005309s)
+[2023.11.30-10.50.10:652][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.50.10:653][160]LogAIModule: Creating AISystem for world EndingCinematic
+[2023.11.30-10.50.10:653][160]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2023.11.30-10.50.10:717][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.30-10.50.10:720][160]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.11.30-10.50.10:720][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.30-10.50.10:720][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.30-10.50.10:720][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.30-10.50.10:720][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.30-10.50.10:720][160]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.30-10.50.10:720][160]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.30-10.50.10:720][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.30-10.50.10:720][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.30-10.50.10:721][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.30-10.50.10:721][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.30-10.50.10:721][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.30-10.50.10:723][160]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.30-10.50.10:867][160]LogAudioMixer: Display: Using Audio Hardware Device Analog (9+10) (RME Fireface UFX)
+[2023.11.30-10.50.10:867][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.30-10.50.10:867][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.30-10.50.10:867][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.30-10.50.10:868][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2023.11.30-10.50.10:868][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2023.11.30-10.50.10:870][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2023.11.30-10.50.10:870][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2023.11.30-10.50.10:870][160]LogInit: FAudioDevice initialized.
+[2023.11.30-10.50.10:870][160]LogAudio: Display: Audio Device (ID: 45) registered with world 'EndingCinematic'.
+[2023.11.30-10.50.10:873][160]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.50.10:875][160]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic up for play (max tick rate 0) at 2023.11.30-07.50.10
+[2023.11.30-10.50.10:876][160]LogWorld: Bringing up level for play took: 0.002135
+[2023.11.30-10.50.10:878][160]LogOnline: OSS: Created online subsystem instance for: :Context_124
+[2023.11.30-10.50.10:878][160]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.10:878][160]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.10:878][160]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.10:879][160]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.10:879][160]PIE: Server logged in
+[2023.11.30-10.50.10:880][160]PIE: Play in editor total start time 0.254 seconds.
+[2023.11.30-10.50.10:883][160]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2023.11.30-10.50.11:418][221]Cmd: LevelEditor.ToggleImmersive
+[2023.11.30-10.50.11:434][221]LogViewport: Scene viewport resized to 1353x884, mode Windowed.
+[2023.11.30-10.50.11:456][222]LogViewport: Scene viewport resized to 1587x945, mode Windowed.
+[2023.11.30-10.50.11:479][223]LogViewport: Scene viewport resized to 1757x990, mode Windowed.
+[2023.11.30-10.50.11:508][224]LogViewport: Scene viewport resized to 1875x1021, mode Windowed.
+[2023.11.30-10.50.11:540][225]LogViewport: Scene viewport resized to 1918x1032, mode Windowed.
+[2023.11.30-10.50.11:569][226]LogViewport: Scene viewport resized to 1924x1034, mode Windowed.
+[2023.11.30-10.50.11:875][259]Cmd: LevelEditor.ToggleImmersive
+[2023.11.30-10.50.11:912][259]LogViewport: Scene viewport resized to 1518x927, mode Windowed.
+[2023.11.30-10.50.11:935][260]LogViewport: Scene viewport resized to 1370x888, mode Windowed.
+[2023.11.30-10.50.11:966][261]LogViewport: Scene viewport resized to 1227x851, mode Windowed.
+[2023.11.30-10.50.11:994][262]LogViewport: Scene viewport resized to 1146x829, mode Windowed.
+[2023.11.30-10.50.12:017][263]LogViewport: Scene viewport resized to 1113x821, mode Windowed.
+[2023.11.30-10.50.12:040][264]LogViewport: Scene viewport resized to 1099x817, mode Windowed.
+[2023.11.30-10.50.12:065][265]LogViewport: Scene viewport resized to 1096x816, mode Windowed.
+[2023.11.30-10.50.12:889][363]Cmd: LevelEditor.ToggleImmersive
+[2023.11.30-10.50.12:906][363]LogViewport: Scene viewport resized to 1360x886, mode Windowed.
+[2023.11.30-10.50.12:928][364]LogViewport: Scene viewport resized to 1594x947, mode Windowed.
+[2023.11.30-10.50.12:950][365]LogViewport: Scene viewport resized to 1763x991, mode Windowed.
+[2023.11.30-10.50.12:981][366]LogViewport: Scene viewport resized to 1879x1022, mode Windowed.
+[2023.11.30-10.50.13:011][367]LogViewport: Scene viewport resized to 1919x1032, mode Windowed.
+[2023.11.30-10.50.13:041][368]LogViewport: Scene viewport resized to 1924x1034, mode Windowed.
+[2023.11.30-10.50.14:074][482]LogLevelSequence: Starting new camera cut: 'None'
+[2023.11.30-10.50.14:075][482]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.30-10.50.14:083][483]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.50.14:083][483]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.50.14:083][483]LogNet: Browse: /Game/Maps/Win
+[2023.11.30-10.50.14:083][483]LogLoad: LoadMap: /Game/Maps/Win
+[2023.11.30-10.50.14:083][483]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.50.14:083][483]LogWorld: UWorld::CleanupWorld for EndingCinematic, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.50.14:084][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.50.14:177][483]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.50.14:180][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.11.30-10.50.14:193][483]LogAudio: Display: Audio Device (ID: 45) registered with world 'Win'.
+[2023.11.30-10.50.14:193][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.50.14:193][483]LogAIModule: Creating AISystem for world Win
+[2023.11.30-10.50.14:193][483]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2023.11.30-10.50.14:193][483]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.50.14:200][483]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Win.Win up for play (max tick rate 0) at 2023.11.30-07.50.14
+[2023.11.30-10.50.14:200][483]LogWorld: Bringing up level for play took: 0.006976
+[2023.11.30-10.50.14:201][483]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.50.14:201][483]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.14:201][483]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.14:201][483]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.14:202][483]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.30-10.50.14:202][483]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.30-10.50.14:202][483]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.14:202][483]LogLoad: Took 0.119569 seconds to LoadMap(/Game/Maps/Win)
+[2023.11.30-10.50.14:204][483]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Book_Magic_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.50.15:097][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.50.15:097][570]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Win
+[2023.11.30-10.50.15:097][570]LogWorld: UWorld::CleanupWorld for Win, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.50.15:098][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.50.15:105][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.30-10.50.15:112][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.50.15:173][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.50.15:173][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.11.30-10.50.15:176][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.11.30-10.50.15:183][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.30-10.50.15:212][571]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2023.11.30-10.50.16:343][685]LogViewport: Scene viewport resized to 1471x915, mode Windowed.
+[2023.11.30-10.50.16:384][686]LogViewport: Scene viewport resized to 1196x842, mode Windowed.
+[2023.11.30-10.50.16:435][687]LogViewport: Scene viewport resized to 1108x819, mode Windowed.
+[2023.11.30-10.50.16:467][688]LogViewport: Scene viewport resized to 1096x816, mode Windowed.
+[2023.11.30-10.50.18:247][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.30-10.50.18:268][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.30-10.50.18:268][886]PIE: New page: PIE session: EndingCinematic (Nov 30, 2023, 4:50:18 AM)
+[2023.11.30-10.50.18:306][886]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.50.18:311][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005318s)
+[2023.11.30-10.50.18:311][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EndingCinematic.EndingCinematic to /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic (0.005350s)
+[2023.11.30-10.50.18:311][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.50.18:312][886]LogAIModule: Creating AISystem for world EndingCinematic
+[2023.11.30-10.50.18:312][886]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2023.11.30-10.50.18:374][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.30-10.50.18:377][886]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2023.11.30-10.50.18:377][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.30-10.50.18:377][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.30-10.50.18:377][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.30-10.50.18:377][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.30-10.50.18:377][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.30-10.50.18:377][886]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.30-10.50.18:377][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.30-10.50.18:377][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.30-10.50.18:378][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.30-10.50.18:378][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.30-10.50.18:378][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.30-10.50.18:380][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.30-10.50.18:525][886]LogAudioMixer: Display: Using Audio Hardware Device Analog (9+10) (RME Fireface UFX)
+[2023.11.30-10.50.18:525][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.30-10.50.18:526][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.30-10.50.18:526][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.30-10.50.18:526][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2023.11.30-10.50.18:526][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2023.11.30-10.50.18:528][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2023.11.30-10.50.18:528][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2023.11.30-10.50.18:528][886]LogInit: FAudioDevice initialized.
+[2023.11.30-10.50.18:528][886]LogAudio: Display: Audio Device (ID: 46) registered with world 'EndingCinematic'.
+[2023.11.30-10.50.18:531][886]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.50.18:533][886]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic up for play (max tick rate 0) at 2023.11.30-07.50.18
+[2023.11.30-10.50.18:534][886]LogWorld: Bringing up level for play took: 0.002212
+[2023.11.30-10.50.18:536][886]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2023.11.30-10.50.18:536][886]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.18:536][886]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.18:536][886]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.18:537][886]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.18:537][886]PIE: Server logged in
+[2023.11.30-10.50.18:538][886]PIE: Play in editor total start time 0.27 seconds.
+[2023.11.30-10.50.18:541][886]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2023.11.30-10.50.20:650][136]Cmd: LevelEditor.ToggleImmersive
+[2023.11.30-10.50.20:667][136]LogViewport: Scene viewport resized to 1363x886, mode Windowed.
+[2023.11.30-10.50.20:689][137]LogViewport: Scene viewport resized to 1593x947, mode Windowed.
+[2023.11.30-10.50.20:712][138]LogViewport: Scene viewport resized to 1764x992, mode Windowed.
+[2023.11.30-10.50.20:742][139]LogViewport: Scene viewport resized to 1877x1021, mode Windowed.
+[2023.11.30-10.50.20:770][140]LogViewport: Scene viewport resized to 1918x1032, mode Windowed.
+[2023.11.30-10.50.20:801][141]LogViewport: Scene viewport resized to 1924x1034, mode Windowed.
+[2023.11.30-10.50.21:719][242]LogLevelSequence: Starting new camera cut: 'None'
+[2023.11.30-10.50.21:720][242]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.30-10.50.21:728][243]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.50.21:728][243]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.50.21:728][243]LogNet: Browse: /Game/Maps/Win
+[2023.11.30-10.50.21:728][243]LogLoad: LoadMap: /Game/Maps/Win
+[2023.11.30-10.50.21:728][243]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.50.21:729][243]LogWorld: UWorld::CleanupWorld for EndingCinematic, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.50.21:729][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.50.21:837][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.50.21:840][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.30-10.50.21:853][243]LogAudio: Display: Audio Device (ID: 46) registered with world 'Win'.
+[2023.11.30-10.50.21:853][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.50.21:854][243]LogAIModule: Creating AISystem for world Win
+[2023.11.30-10.50.21:854][243]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2023.11.30-10.50.21:854][243]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.50.21:861][243]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Win.Win up for play (max tick rate 0) at 2023.11.30-07.50.21
+[2023.11.30-10.50.21:861][243]LogWorld: Bringing up level for play took: 0.006957
+[2023.11.30-10.50.21:861][243]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.50.21:861][243]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.21:861][243]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.21:861][243]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.21:862][243]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.30-10.50.21:862][243]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.30-10.50.21:862][243]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.21:862][243]LogLoad: Took 0.134313 seconds to LoadMap(/Game/Maps/Win)
+[2023.11.30-10.50.21:865][243]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Book_Magic_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.50.29:207][968]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.50.29:207][968]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.50.29:208][968]LogNet: Browse: /Game/Maps/MainMenu
+[2023.11.30-10.50.29:208][968]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2023.11.30-10.50.29:208][968]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Win
+[2023.11.30-10.50.29:208][968]LogWorld: UWorld::CleanupWorld for Win, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.50.29:208][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.50.29:297][968]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.50.29:300][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.11.30-10.50.29:317][968]LogAudio: Display: Audio Device (ID: 46) registered with world 'MainMenu'.
+[2023.11.30-10.50.29:317][968]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.50.29:318][968]LogAIModule: Creating AISystem for world MainMenu
+[2023.11.30-10.50.29:318][968]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2023.11.30-10.50.29:318][968]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.50.29:327][968]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.11.30-07.50.29
+[2023.11.30-10.50.29:327][968]LogWorld: Bringing up level for play took: 0.009426
+[2023.11.30-10.50.29:328][968]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.50.29:328][968]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.29:328][968]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.50.29:328][968]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.29:328][968]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.30-10.50.29:330][968]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.50.29:330][968]LogLoad: Took 0.121851 seconds to LoadMap(/Game/Maps/MainMenu)
+[2023.11.30-10.50.29:332][968]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Main_Menu_BGM_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.50.29:332][968]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Lava_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.50.30:640][117]LogBlueprintUserMessages: [WBP_ConifScreen_C_0] sdsd
+[2023.11.30-10.50.30:641][117]Cmd: r.setres 1920x1080
+[2023.11.30-10.50.30:641][117]r.SetRes = "1920x1080"
+[2023.11.30-10.50.30:641][117]Cmd: r.setres 1920x1080
+[2023.11.30-10.50.30:642][117]r.SetRes = "1920x1080"
+[2023.11.30-10.50.37:398][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.50.37:399][881]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.11.30-10.50.37:437][881]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.50.37:437][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.50.37:446][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.30-10.50.37:454][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.50.37:514][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.50.37:514][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.11.30-10.50.37:516][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.11.30-10.50.37:523][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.30-10.50.37:588][882]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2023.11.30-10.50.38:875][ 34]LogViewport: Scene viewport resized to 1813x1004, mode Windowed.
+[2023.11.30-10.50.38:897][ 35]LogViewport: Scene viewport resized to 1485x918, mode Windowed.
+[2023.11.30-10.50.38:929][ 36]LogViewport: Scene viewport resized to 1290x867, mode Windowed.
+[2023.11.30-10.50.38:960][ 37]LogViewport: Scene viewport resized to 1179x838, mode Windowed.
+[2023.11.30-10.50.38:990][ 38]LogViewport: Scene viewport resized to 1122x823, mode Windowed.
+[2023.11.30-10.50.39:019][ 39]LogViewport: Scene viewport resized to 1100x817, mode Windowed.
+[2023.11.30-10.50.39:041][ 40]LogViewport: Scene viewport resized to 1096x816, mode Windowed.
+[2023.11.30-10.50.50:656][418]BlueprintLog: New page: Compile EndingCinematic
+[2023.11.30-10.50.50:743][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.30-10.50.51:312][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.50.51:406][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.11.30-10.50.51:436][464]LogSavePackage: Moving output files for package: /Game/Maps/EndingCinematic
+[2023.11.30-10.50.51:437][464]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/EndingCinematic2E17B03240C1C4B6C4AFDEB5D8E0F89B.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/EndingCinematic.umap'
+[2023.11.30-10.50.51:475][464]LogFileHelpers: Saving map 'EndingCinematic' took 0.130
+[2023.11.30-10.50.51:481][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 16.4 sec)
+[2023.11.30-10.50.51:488][464]AssetCheck: New page: Asset Save: EndingCinematic
+[2023.11.30-10.50.51:488][464]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/EndingCinematic.EndingCinematic
+[2023.11.30-10.50.54:928][859]BlueprintLog: New page: Compile WBP_ConifScreen
+[2023.11.30-10.50.55:004][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.30-10.50.55:667][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.50.55:746][919]LogSavePackage: Moving output files for package: /Game/FirstPerson/MainMenu/WBP_ConifScreen
+[2023.11.30-10.50.55:747][919]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/WBP_ConifScreenC7E139FA457FD852387CAEA8EC088CE6.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/MainMenu/WBP_ConifScreen.uasset'
+[2023.11.30-10.50.55:756][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 16.5 sec)
+[2023.11.30-10.50.55:763][919]AssetCheck: New page: Asset Save: WBP_ConifScreen
+[2023.11.30-10.50.55:763][919]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/MainMenu/WBP_ConifScreen.WBP_ConifScreen
+[2023.11.30-10.51.10:621][603]BlueprintLog: New page: Compile WBP_ConifScreen
+[2023.11.30-10.51.10:716][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.30-10.51.11:502][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.30-10.51.11:578][678]LogSavePackage: Moving output files for package: /Game/FirstPerson/MainMenu/WBP_ConifScreen
+[2023.11.30-10.51.11:579][678]LogSavePackage: Moving 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Saved/WBP_ConifScreenD5CBCCD44571D9B0BC576C98911E5017.tmp' to 'D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/FirstPerson/MainMenu/WBP_ConifScreen.uasset'
+[2023.11.30-10.51.11:587][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 16.6 sec)
+[2023.11.30-10.51.11:595][678]AssetCheck: New page: Asset Save: WBP_ConifScreen
+[2023.11.30-10.51.11:595][678]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/MainMenu/WBP_ConifScreen.WBP_ConifScreen
+[2023.11.30-10.51.13:195][849]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.30-10.51.13:216][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.30-10.51.13:216][849]PIE: New page: PIE session: EndingCinematic (Nov 30, 2023, 4:51:13 AM)
+[2023.11.30-10.51.13:246][849]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.51.13:251][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005306s)
+[2023.11.30-10.51.13:251][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/EndingCinematic.EndingCinematic to /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic (0.005338s)
+[2023.11.30-10.51.13:251][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.51.13:252][849]LogAIModule: Creating AISystem for world EndingCinematic
+[2023.11.30-10.51.13:252][849]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2023.11.30-10.51.13:316][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.30-10.51.13:319][849]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2023.11.30-10.51.13:319][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.30-10.51.13:319][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.30-10.51.13:319][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.30-10.51.13:319][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.30-10.51.13:319][849]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.30-10.51.13:319][849]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.30-10.51.13:319][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.30-10.51.13:319][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.30-10.51.13:319][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.30-10.51.13:319][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.30-10.51.13:319][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.30-10.51.13:321][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.30-10.51.13:466][849]LogAudioMixer: Display: Using Audio Hardware Device Analog (9+10) (RME Fireface UFX)
+[2023.11.30-10.51.13:466][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.30-10.51.13:466][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.30-10.51.13:466][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.30-10.51.13:467][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2023.11.30-10.51.13:467][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2023.11.30-10.51.13:469][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2023.11.30-10.51.13:469][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2023.11.30-10.51.13:469][849]LogInit: FAudioDevice initialized.
+[2023.11.30-10.51.13:469][849]LogAudio: Display: Audio Device (ID: 47) registered with world 'EndingCinematic'.
+[2023.11.30-10.51.13:472][849]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.51.13:474][849]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic up for play (max tick rate 0) at 2023.11.30-07.51.13
+[2023.11.30-10.51.13:474][849]LogWorld: Bringing up level for play took: 0.002194
+[2023.11.30-10.51.13:476][849]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2023.11.30-10.51.13:477][849]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.51.13:477][849]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.51.13:477][849]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.51.13:478][849]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.51.13:478][849]PIE: Server logged in
+[2023.11.30-10.51.13:479][849]PIE: Play in editor total start time 0.263 seconds.
+[2023.11.30-10.51.13:481][849]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2023.11.30-10.51.16:670][227]LogLevelSequence: Starting new camera cut: 'None'
+[2023.11.30-10.51.16:671][227]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.30-10.51.16:679][228]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.51.16:679][228]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.51.16:679][228]LogNet: Browse: /Game/Maps/Win
+[2023.11.30-10.51.16:679][228]LogLoad: LoadMap: /Game/Maps/Win
+[2023.11.30-10.51.16:679][228]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.51.16:679][228]LogWorld: UWorld::CleanupWorld for EndingCinematic, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.51.16:680][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.51.16:776][228]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.51.16:779][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.30-10.51.16:792][228]LogAudio: Display: Audio Device (ID: 47) registered with world 'Win'.
+[2023.11.30-10.51.16:792][228]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.51.16:792][228]LogAIModule: Creating AISystem for world Win
+[2023.11.30-10.51.16:793][228]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2023.11.30-10.51.16:793][228]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.51.16:799][228]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Win.Win up for play (max tick rate 0) at 2023.11.30-07.51.16
+[2023.11.30-10.51.16:800][228]LogWorld: Bringing up level for play took: 0.006926
+[2023.11.30-10.51.16:800][228]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.51.16:800][228]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.51.16:800][228]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.51.16:800][228]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.51.16:801][228]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.30-10.51.16:801][228]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.30-10.51.16:801][228]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.51.16:801][228]LogLoad: Took 0.122739 seconds to LoadMap(/Game/Maps/Win)
+[2023.11.30-10.51.16:803][228]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Book_Magic_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.51.22:867][953]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.51.22:867][953]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.51.22:867][953]LogNet: Browse: /Game/Maps/MainMenu
+[2023.11.30-10.51.22:867][953]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2023.11.30-10.51.22:867][953]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Win
+[2023.11.30-10.51.22:868][953]LogWorld: UWorld::CleanupWorld for Win, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.51.22:868][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.51.22:957][953]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.51.22:960][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.30-10.51.22:977][953]LogAudio: Display: Audio Device (ID: 47) registered with world 'MainMenu'.
+[2023.11.30-10.51.22:977][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.51.22:978][953]LogAIModule: Creating AISystem for world MainMenu
+[2023.11.30-10.51.22:978][953]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2023.11.30-10.51.22:978][953]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.51.22:987][953]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.11.30-07.51.22
+[2023.11.30-10.51.22:987][953]LogWorld: Bringing up level for play took: 0.009339
+[2023.11.30-10.51.22:987][953]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.51.22:988][953]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.51.22:988][953]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.51.22:988][953]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.51.22:990][953]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.51.22:990][953]LogLoad: Took 0.123169 seconds to LoadMap(/Game/Maps/MainMenu)
+[2023.11.30-10.51.22:992][953]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Main_Menu_BGM_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.51.22:992][953]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Lava_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.51.24:913][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.51.24:913][181]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.11.30-10.51.24:946][181]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.51.24:947][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.51.24:950][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.30-10.51.24:957][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.51.25:020][181]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.51.25:020][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.11.30-10.51.25:022][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.11.30-10.51.25:026][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.51.25:029][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.30-10.51.25:097][182]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2023.11.30-10.51.44:065][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.30-10.51.44:148][571]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2023.11.30-10.51.44:148][571]Cmd: MAP LOAD FILE="D:/0UnrealProjects/JuevesCTP2/CANDIOTI2-Jueves/ParkourTowerGame/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.30-10.51.44:148][571]LightingResults: New page: Lighting Build
+[2023.11.30-10.51.44:148][571]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.11.30-10.51.44:266][571]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.51.44:266][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.51.44:328][571]LogWorld: UWorld::CleanupWorld for EndingCinematic, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.51.44:328][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.51.44:329][571]MapCheck: New page: Map Check
+[2023.11.30-10.51.44:329][571]LightingResults: New page: Lighting Build
+[2023.11.30-10.51.44:384][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.51.44:389][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.30-10.51.44:397][571]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.51.44:397][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.51.44:454][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.30-10.51.44:510][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.30-10.51.44:524][571]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.11.30-10.51.44:524][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.51.44:525][571]LogAIModule: Creating AISystem for world MainMenu
+[2023.11.30-10.51.44:562][571]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.30-10.51.44:621][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.30-10.51.44:658][571]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.30-10.51.44:658][571]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2023.11.30-10.51.44:658][571]LogFileHelpers: Loading map 'MainMenu' took 0.509
+[2023.11.30-10.51.45:450][654]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.30-10.51.45:471][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.30-10.51.45:471][654]PIE: New page: PIE session: MainMenu (Nov 30, 2023, 4:51:45 AM)
+[2023.11.30-10.51.45:471][654]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.11.30-10.51.45:475][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004228s)
+[2023.11.30-10.51.45:475][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.004257s)
+[2023.11.30-10.51.45:475][654]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.51.45:476][654]LogAIModule: Creating AISystem for world MainMenu
+[2023.11.30-10.51.45:476][654]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2023.11.30-10.51.45:529][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.30-10.51.45:532][654]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.11.30-10.51.45:532][654]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.30-10.51.45:532][654]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.30-10.51.45:532][654]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.30-10.51.45:532][654]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.30-10.51.45:532][654]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.30-10.51.45:532][654]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.30-10.51.45:532][654]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.30-10.51.45:532][654]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.30-10.51.45:532][654]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.30-10.51.45:533][654]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.30-10.51.45:533][654]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.30-10.51.45:535][654]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.30-10.51.45:680][654]LogAudioMixer: Display: Using Audio Hardware Device Analog (9+10) (RME Fireface UFX)
+[2023.11.30-10.51.45:680][654]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.30-10.51.45:680][654]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.30-10.51.45:680][654]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.30-10.51.45:681][654]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2023.11.30-10.51.45:681][654]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2023.11.30-10.51.45:683][654]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2023.11.30-10.51.45:683][654]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2023.11.30-10.51.45:683][654]LogInit: FAudioDevice initialized.
+[2023.11.30-10.51.45:683][654]LogAudio: Display: Audio Device (ID: 48) registered with world 'MainMenu'.
+[2023.11.30-10.51.45:686][654]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.51.45:687][654]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.11.30-07.51.45
+[2023.11.30-10.51.45:688][654]LogWorld: Bringing up level for play took: 0.001623
+[2023.11.30-10.51.45:690][654]LogOnline: OSS: Created online subsystem instance for: :Context_127
+[2023.11.30-10.51.45:690][654]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.51.45:690][654]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.51.45:690][654]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.51.45:691][654]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.30-10.51.45:692][654]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.30-10.51.45:692][654]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.11.30-10.51.45:692][654]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.51.45:692][654]PIE: Server logged in
+[2023.11.30-10.51.45:693][654]PIE: Play in editor total start time 0.223 seconds.
+[2023.11.30-10.51.45:703][654]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Main_Menu_BGM_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.51.45:703][654]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Lava_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.51.47:909][916]Cmd: r.setres 1920x1080
+[2023.11.30-10.51.47:909][916]r.SetRes = "1920x1080"
+[2023.11.30-10.51.47:909][916]Cmd: r.setres 1920x1080
+[2023.11.30-10.51.47:909][916]r.SetRes = "1920x1080"
+[2023.11.30-10.51.54:640][716]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.51.54:640][716]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.51.54:640][716]LogNet: Browse: /Game/Maps/TutorialLevel
+[2023.11.30-10.51.54:640][716]LogLoad: LoadMap: /Game/Maps/TutorialLevel
+[2023.11.30-10.51.54:640][716]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.11.30-10.51.54:641][716]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.51.54:641][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.51.54:739][716]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.51.54:742][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.30-10.51.54:794][716]LogAudio: Display: Audio Device (ID: 48) registered with world 'TutorialLevel'.
+[2023.11.30-10.51.54:794][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.51.54:794][716]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.11.30-10.51.54:794][716]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2023.11.30-10.51.54:794][716]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.30-10.51.54:813][716]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.11.30-07.51.54
+[2023.11.30-10.51.54:814][716]LogWorld: Bringing up level for play took: 0.019146
+[2023.11.30-10.51.54:818][716]LogLoad: Took 0.177168 seconds to LoadMap(/Game/Maps/TutorialLevel)
+[2023.11.30-10.51.54:821][716]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2023.11.30-10.51.54:828][716]LogAudio: Warning: Detected orphaned looping sound 'A_Forest_Cue'.
+[2023.11.30-10.51.54:867][717]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2023.11.30-10.52.17:350][916]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.30-10.52.17:350][916]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.30-10.52.17:381][919]LogLevelSequence: Starting new camera cut: 'None'
+[2023.11.30-10.52.36:892][658]LogBlueprintUserMessages: [BP_SlideNotify_C_0] Hello
+[2023.11.30-10.52.42:327][139]LogNet: Browse: /Game/Maps/Level1
+[2023.11.30-10.52.42:327][139]LogLoad: LoadMap: /Game/Maps/Level1
+[2023.11.30-10.52.42:327][139]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.11.30-10.52.42:328][139]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.52.42:329][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.52.42:424][139]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.52.42:430][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.11.30-10.52.42:454][139]LogAudio: Display: Audio Device (ID: 48) registered with world 'Level1'.
+[2023.11.30-10.52.42:454][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.52.42:454][139]LogAIModule: Creating AISystem for world Level1
+[2023.11.30-10.52.42:454][139]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2023.11.30-10.52.42:454][139]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.30-10.52.42:466][139]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.11.30-07.52.42
+[2023.11.30-10.52.42:467][139]LogWorld: Bringing up level for play took: 0.012359
+[2023.11.30-10.52.42:470][139]LogLoad: Took 0.143283 seconds to LoadMap(/Game/Maps/Level1)
+[2023.11.30-10.52.42:472][139]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.30-10.52.42:472][139]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.30-10.52.42:513][140]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.30-10.52.42:517][140]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.30-10.52.42:521][140]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.30-10.52.42:533][140]LogLevelSequence: Starting new camera cut: 'CineCameraActor_3'
+[2023.11.30-10.52.49:149][747]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2023.11.30-10.52.53:511][126]LogLevelSequence: Starting new camera cut: 'CineCameraActor_5'
+[2023.11.30-10.52.57:744][514]LogLevelSequence: Starting new camera cut: 'None'
+[2023.11.30-10.52.57:746][514]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.30-10.52.57:746][514]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.30-10.52.57:746][514]LogBlueprintUserMessages: [Level1_C_0] se llamo level bp skip cinematic otra vez
+[2023.11.30-10.52.57:747][514]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_TowerRoom_BGM_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.53.03:425][957]LogBlueprintUserMessages: [BP_TowerStart_C_1] newmod
+[2023.11.30-10.53.05:804][136]LogBlueprintUserMessages: [BP_Modulo12_C_0] newmod
+[2023.11.30-10.53.05:818][137]LogBlueprintUserMessages: [BP_Modulo12_C_0] newmod
+[2023.11.30-10.53.05:899][143]LogBlueprintUserMessages: [BP_Modulo12_C_0] newmod
+[2023.11.30-10.53.22:277][415]LogBlueprintUserMessages: [BP_Modulo5_C_0] newmod
+[2023.11.30-10.53.22:303][417]LogBlueprintUserMessages: [BP_Modulo5_C_0] newmod
+[2023.11.30-10.53.22:315][418]LogBlueprintUserMessages: [BP_Modulo5_C_0] newmod
+[2023.11.30-10.53.22:591][439]LogBlueprintUserMessages: [BP_Modulo5_C_0] newmod
+[2023.11.30-10.53.38:953][719]LogBlueprintUserMessages: [BP_Modulo12_C_1] newmod
+[2023.11.30-10.53.39:003][723]LogBlueprintUserMessages: [BP_Modulo12_C_1] newmod
+[2023.11.30-10.53.51:953][770]LogBlueprintUserMessages: [BP_Modulo11_C_0] newmod
+[2023.11.30-10.53.51:964][771]LogBlueprintUserMessages: [BP_Modulo11_C_0] newmod
+[2023.11.30-10.53.51:989][773]LogBlueprintUserMessages: [BP_Modulo11_C_0] newmod
+[2023.11.30-10.53.52:273][795]LogBlueprintUserMessages: [BP_Modulo11_C_0] newmod
+[2023.11.30-10.54.08:106][ 83]LogBlueprintUserMessages: [BP_Modulo2_C_0] newmod
+[2023.11.30-10.54.08:118][ 84]LogBlueprintUserMessages: [BP_Modulo2_C_0] newmod
+[2023.11.30-10.54.08:960][154]LogBlueprintUserMessages: [BP_Modulo2_C_0] newmod
+[2023.11.30-10.54.17:054][795]LogBlueprintUserMessages: [BP_TowerEnd_C_0] newmod
+[2023.11.30-10.54.17:066][796]LogBlueprintUserMessages: [BP_TowerEnd_C_0] newmod
+[2023.11.30-10.54.19:261][966]LogNet: Browse: /Game/Maps/EndingCinematic
+[2023.11.30-10.54.19:261][966]LogLoad: LoadMap: /Game/Maps/EndingCinematic
+[2023.11.30-10.54.19:261][966]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2023.11.30-10.54.19:262][966]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.54.19:264][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.54.19:351][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.54.19:356][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.11.30-10.54.19:374][966]LogAudio: Display: Audio Device (ID: 48) registered with world 'EndingCinematic'.
+[2023.11.30-10.54.19:374][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.54.19:375][966]LogAIModule: Creating AISystem for world EndingCinematic
+[2023.11.30-10.54.19:375][966]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2023.11.30-10.54.19:375][966]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.54.19:382][966]LogWorld: Bringing World /Game/Maps/UEDPIE_0_EndingCinematic.EndingCinematic up for play (max tick rate 0) at 2023.11.30-07.54.19
+[2023.11.30-10.54.19:383][966]LogWorld: Bringing up level for play took: 0.007806
+[2023.11.30-10.54.19:383][966]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.54.19:383][966]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.54.19:383][966]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.54.19:383][966]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.54.19:384][966]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.54.19:384][966]LogLoad: Took 0.123696 seconds to LoadMap(/Game/Maps/EndingCinematic)
+[2023.11.30-10.54.19:387][966]LogLevelSequence: Starting new camera cut: 'CineCameraActor_1'
+[2023.11.30-10.54.22:731][364]LogLevelSequence: Starting new camera cut: 'None'
+[2023.11.30-10.54.22:739][365]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.54.22:739][365]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.54.22:739][365]LogNet: Browse: /Game/Maps/Win
+[2023.11.30-10.54.22:739][365]LogLoad: LoadMap: /Game/Maps/Win
+[2023.11.30-10.54.22:739][365]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_EndingCinematic
+[2023.11.30-10.54.22:740][365]LogWorld: UWorld::CleanupWorld for EndingCinematic, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.54.22:740][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.54.22:821][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.54.22:824][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.30-10.54.22:839][365]LogAudio: Display: Audio Device (ID: 48) registered with world 'Win'.
+[2023.11.30-10.54.22:839][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.54.22:839][365]LogAIModule: Creating AISystem for world Win
+[2023.11.30-10.54.22:840][365]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2023.11.30-10.54.22:840][365]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.54.22:847][365]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Win.Win up for play (max tick rate 0) at 2023.11.30-07.54.22
+[2023.11.30-10.54.22:847][365]LogWorld: Bringing up level for play took: 0.007427
+[2023.11.30-10.54.22:847][365]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.54.22:848][365]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.54.22:848][365]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.54.22:848][365]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.54.22:849][365]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.30-10.54.22:849][365]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.30-10.54.22:849][365]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.54.22:849][365]LogLoad: Took 0.109793 seconds to LoadMap(/Game/Maps/Win)
+[2023.11.30-10.54.22:851][365]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Book_Magic_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.54.25:272][653]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.54.25:272][653]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.30-10.54.25:272][653]LogNet: Browse: /Game/Maps/MainMenu
+[2023.11.30-10.54.25:272][653]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2023.11.30-10.54.25:272][653]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Win
+[2023.11.30-10.54.25:273][653]LogWorld: UWorld::CleanupWorld for Win, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.54.25:273][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.54.25:360][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.30-10.54.25:363][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.30-10.54.25:366][653]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.11.30-10.54.25:370][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004490s)
+[2023.11.30-10.54.25:371][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.004527s)
+[2023.11.30-10.54.25:371][653]LogAudio: Display: Audio Device (ID: 48) registered with world 'MainMenu'.
+[2023.11.30-10.54.25:371][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.30-10.54.25:371][653]LogAIModule: Creating AISystem for world MainMenu
+[2023.11.30-10.54.25:371][653]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2023.11.30-10.54.25:371][653]LogLoad: Game class is 'GameMode'
+[2023.11.30-10.54.25:372][653]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.11.30-07.54.25
+[2023.11.30-10.54.25:373][653]LogWorld: Bringing up level for play took: 0.001263
+[2023.11.30-10.54.25:373][653]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.11.30-10.54.25:373][653]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.54.25:373][653]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.30-10.54.25:373][653]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.54.25:374][653]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2023.11.30-10.54.25:375][653]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.30-10.54.25:375][653]LogLoad: Took 0.102231 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2023.11.30-10.54.25:377][653]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Main_Menu_BGM_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.54.25:377][653]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'A_Lava_Loop_SFX_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.11.30-10.54.32:967][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.54.32:967][559]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.11.30-10.54.33:007][559]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.11.30-10.54.33:008][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.54.33:011][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.30-10.54.33:018][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-10.54.33:072][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.30-10.54.33:073][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.11.30-10.54.33:074][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.11.30-10.54.33:082][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.30-10.54.33:159][560]LogPlayLevel: Display: Destroying online subsystem :Context_127
